@@ -1,0 +1,176 @@
+{
+  "id": "seerah_010",
+  "collectionId": "seerah",
+  "chapterNumber": 10,
+  "languageCode": "en",
+  "title": "Rebuilding the Kaaba",
+  "subtitle": "The Sacred Sanctuary, Tribal Dispute, and the Wisdom of Al-Amin",
+  "summary": "The rebuilding of the Kaaba when the Prophet was about thirty-five, the damage caused by floods, the pledge to use only lawful funds, the Prophet carrying stones with al-'Abbas, the crisis over placing the Black Stone, and Muhammad's arbitration that preserved peace among the clans of Quraysh.",
+  "estimatedReadingMinutes": 5,
+  "coverImageName": "SeerahChapter010Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_010_01",
+      "type": "heading",
+      "text": "The State of the Kaaba Before Reconstruction",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_02",
+      "type": "paragraph",
+      "text": "Around 605 CE, when Muhammad was about thirty-five years of age, an event occurred that shook the civic life of Makkah. The Kaaba, the ancient sanctuary raised by the Prophet Ibrahim and his son Isma'il, was built of stones laid without mortar. According to Ibn Ishaq, its walls stood only a little above a man's height and it had no roof, leaving the treasures kept inside it vulnerable to theft.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_03",
+      "type": "paragraph",
+      "text": "Sirah sources relate that a fire had earlier weakened its walls, and that a flood then swept down the valley of Makkah and cracked them. Fearing the House would collapse, the leaders of Quraysh resolved to demolish it and rebuild it with higher walls and a roof.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_04",
+      "type": "heading",
+      "text": "The Solemn Covenant of Lawful Wealth",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_05",
+      "type": "paragraph",
+      "text": "Ibn Ishaq relates that before the work began, Abu Wahb ibn 'Amr al-Makhzumi urged Quraysh to put nothing into the building except wealth that was lawful and clean: no earnings of prostitution, no usury (riba), and nothing taken unjustly from anyone.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_06",
+      "type": "paragraph",
+      "text": "Around this time a ship belonging to a Roman (Byzantine) merchant was wrecked at Shu'aybah, the old port of Makkah on the Red Sea coast. Quraysh bought its timber for the roof and engaged a carpenter named Baqum, described in some reports as a Copt and in others as a Roman, to help the Makkan builders.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_07",
+      "type": "image",
+      "text": "The ancient stone masonry and sacred precinct of the Kaaba in the valley of Makkah.",
+      "imageName": "AncientKaaba"
+    },
+    {
+      "id": "sec_010_08",
+      "type": "heading",
+      "text": "The Building Process and the Semicircle of the Hijr",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_09",
+      "type": "paragraph",
+      "text": "Ibn Ishaq relates that the clans divided the work among themselves: the side with the door went to Banu 'Abd Manaf and Banu Zuhrah; the side between the Black Stone corner and the Yemeni corner to Banu Makhzum and clans allied with them; the back of the Kaaba to Banu Jumah and Banu Sahm; and the side of the Hijr to Banu 'Abd al-Dar, Banu Asad and Banu 'Adi. Muhammad himself took part in the work, carrying stones with his uncle al-'Abbas. Sahih al-Bukhari preserves, from Jabir ibn 'Abdullah, what happened to him while he did so:",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_22",
+      "type": "quote",
+      "text": "\"When the Kaaba was being built, the Prophet ﷺ and al-'Abbas went to carry stones. Al-'Abbas said to the Prophet: 'Put your waist-wrapper over your neck to protect you from the stones.' He fell to the ground, his eyes turned towards the sky. Then he came to and said: 'My waist-wrapper! My waist-wrapper!' And he tied his waist-wrapper on him.\" — Jabir ibn 'Abdullah, Sahih al-Bukhari, Hadith 3829 (also Hadith 1582)",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_10",
+      "type": "paragraph",
+      "text": "Sahih al-Bukhari also records that the Prophet later told 'A'ishah that when her people built the Kaaba, they fell short of the foundations of Ibrahim, and that he would have restored them were it not that her people had only recently left unbelief. The sirah sources explain that the lawful funds Quraysh had gathered ran out, so they left part of the northern side outside the building and marked it with a low curved wall. This area, about six or seven cubits deep according to differing reports, is known as the Hijr of Isma'il or the Hatim.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_11",
+      "type": "heading",
+      "text": "The Crisis of the Black Stone",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_12",
+      "type": "paragraph",
+      "text": "Work proceeded harmoniously until the walls reached the place of the Black Stone (al-Hajar al-Aswad) in the eastern corner. The stone was held in great reverence, and a fierce dispute broke out over which clan would have the honour of lifting it into its place.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_13",
+      "type": "paragraph",
+      "text": "Every clan claimed the right, and, according to Ibn Ishaq, the work stopped for four or five nights as tempers rose. Banu 'Abd al-Dar brought a bowl filled with blood, and they and Banu 'Adi swore an oath to fight to the death, dipping their hands in the blood; they were called La'aqat al-Dam (the Blood-Lickers). War threatened to break out in the sanctuary itself.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_14",
+      "type": "heading",
+      "text": "The Arbitration of the Trustworthy",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_15",
+      "type": "paragraph",
+      "text": "Ibn Ishaq relates that Abu Umayyah ibn al-Mughirah al-Makhzumi, the oldest man of Quraysh at the time, then proposed a solution: 'O people of Quraysh, let the first man to enter through the gate of this mosque judge between you.' They agreed and waited to see who would come.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_16",
+      "type": "paragraph",
+      "text": "The first to enter was Muhammad ibn 'Abdullah. When they saw him, they said: 'This is Al-Amin (the Trustworthy); we are content. This is Muhammad.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_17",
+      "type": "image",
+      "text": "The historic sanctuary courtyard of Makkah where the clans agreed upon Muhammad's arbitration.",
+      "imageName": "AncientMakkah"
+    },
+    {
+      "id": "sec_010_18",
+      "type": "heading",
+      "text": "A Masterpiece of Inclusive Wisdom",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_19",
+      "type": "paragraph",
+      "text": "When they told him of the dispute, Ibn Ishaq relates, he asked for a cloth (some reports say it was his own cloak) and placed the Black Stone in it with his own hands. Then he said: 'Let each clan take hold of a side of the cloth.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_20",
+      "type": "paragraph",
+      "text": "They lifted it together until they brought it to its place, and Muhammad then set the stone in position with his own hand, and the building continued above it. Every clan shared in the honour, and bloodshed was averted.",
+      "imageName": null
+    },
+    {
+      "id": "sec_010_21",
+      "type": "paragraph",
+      "text": "The biographers saw in this event the standing Muhammad already had among his people some five years before the revelation began: his judgement was accepted by every clan without dispute.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_010_01",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham (d. 218 AH)",
+      "source": "Vol. 1: The Rebuilding of the Kaaba and Arbitration of the Black Stone",
+      "notes": "Classical biography transmitting Ibn Ishaq's account of the rebuilding, the division of the walls among the clans, the La'aqat al-Dam oath, and the arbitration over the Black Stone. These details are sirah reports."
+    },
+    {
+      "id": "ref_010_02",
+      "title": "Musnad Ahmad",
+      "author": "Imam Ahmad ibn Hanbal (d. 241 AH)",
+      "source": "Musnad al-Makkiyyin, Hadith of the Rebuilding of the Kaaba",
+      "notes": "Musnad Ahmad contains reports on the rebuilding of the Kaaba and the placing of the Black Stone. The specific report and its number have not yet been verified for this chapter and must be located before publication."
+    },
+    {
+      "id": "ref_010_03",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab al-Hajj, Bab Fadl Makkah wa Bunyaniha, Hadith 1582 and 1583; Kitab Manaqib al-Ansar, Hadith 3829",
+      "notes": "Jabir's report of the Prophet carrying stones with al-'Abbas and the waist-wrapper incident (1582, 3829), and 'A'ishah's report that Quraysh fell short of the foundations of Ibrahim (1583). The shortage of lawful funds is explained in the sirah sources."
+    },
+    {
+      "id": "ref_010_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "This is an editorial status notice, not a historical source. The chapter is a narrative draft compiled from the classical works listed above and has not yet been independently reviewed by qualified scholars."
+    }
+  ]
+}

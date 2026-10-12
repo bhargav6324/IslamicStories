@@ -1,0 +1,164 @@
+{
+  "id": "seerah_025",
+  "collectionId": "seerah",
+  "chapterNumber": 25,
+  "languageCode": "en",
+  "title": "The Night Journey",
+  "subtitle": "From the Sacred Sanctuary to the Heavens and the Gift of Prayer",
+  "summary": "Divine solace following grief and rejection, Al-Isra upon the Buraq to Al-Masjid al-Aqsa in Jerusalem, leading all prophets in communal worship, Al-Mi'raj through the seven celestial spheres, the divine decree of the five daily prayers, the scorn of Quraysh, and the unwavering conviction of Abu Bakr al-Siddiq.",
+  "estimatedReadingMinutes": 10,
+  "coverImageName": "SeerahChapter025Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_025_01",
+      "type": "heading",
+      "text": "Divine Solace in the Depths of Night",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_02",
+      "type": "paragraph",
+      "text": "Following the agonizing trials of the Year of Sorrow and the brutal rejection in the mountains of Ta'if, when all earthly avenues of support appeared shut, God bestowed upon His Beloved Servant an extraordinary miracle of transcendence and spiritual intimacy. In a single momentous night, traditionally placed by classical chroniclers shortly before the Hijrah, the Prophet Muhammad ﷺ was transported on a miraculous journey that bridged the physical and celestial realms.",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_03",
+      "type": "paragraph",
+      "text": "While resting in the precinct of the Kaaba (al-Hatim), the Angel Jibril appeared, opened his chest, and washed his heart with water of Zamzam before filling it with wisdom and faith. Jibril then brought forth the Buraq—a swift, radiant celestial creature whose stride reached as far as its eye could see. Mounted upon the Buraq with Jibril as his companion, the Prophet journeyed through the nocturnal expanse from Al-Masjid al-Haram in Makkah to Al-Masjid al-Aqsa in Bayt al-Maqdis (Jerusalem).",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_04",
+      "type": "image",
+      "text": "The vast starry desert night through which the miraculous journey spanned earth and the heavens.",
+      "imageName": "NightStarsDesert"
+    },
+    {
+      "id": "sec_025_05",
+      "type": "heading",
+      "text": "The Gathering of Prophecy at Al-Aqsa",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_06",
+      "type": "paragraph",
+      "text": "This miraculous nocturnal traversal is enshrined in the opening verse of Surah Al-Isra in the Holy Quran:",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_07",
+      "type": "quote",
+      "text": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ\n'Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.' (Surah Al-Isra 17:1)",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_08",
+      "type": "paragraph",
+      "text": "Upon arriving at the sacred sanctuary of Jerusalem, the Prophet ﷺ tethered the Buraq to the ring historically used by the prophets. Entering the sanctuary, he found an assembly of all preceding prophets and messengers resurrected across time. Stepping forward upon Jibril's indication, Muhammad ﷺ led them all in congregational prayer. This momentous event affirmed the profound unity of the prophetic legacy, signifying that monotheistic revelation is a single seamless light culminating in the final message.",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_09",
+      "type": "heading",
+      "text": "Ascension Through the Seven Heavens",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_10",
+      "type": "paragraph",
+      "text": "From the sacred rock of Jerusalem began Al-Mi'raj—the celestial ascension through the realms of the unseen. Accompanied by Jibril, the Prophet ascended through each of the seven heavens, welcomed by guardian angels at every gate. In the first heaven, he met Adam, father of humanity; in the second, the maternal cousins Yahya (John) and Isa (Jesus); in the third, Yusuf (Joseph), endowed with half of all earthly beauty; in the fourth, Idris; in the fifth, Harun (Aaron); in the sixth, Musa (Moses); and in the seventh heaven, he encountered Ibrahim (Abraham), reclining serenely against Al-Bayt al-Ma'mur (The Frequented House), where seventy thousand angels enter daily to worship, never to return.",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_11",
+      "type": "paragraph",
+      "text": "Transcending the seventh heaven, the Prophet arrived at Sidrat al-Muntaha—the Lote Tree of the Utmost Boundary—where human knowledge ceases and celestial splendor radiates. As described in Surah An-Najm: 'When there covered the lote tree that which covered it... His sight did not swerve, nor did it transgress; he certainly saw of the greatest signs of his Lord' (53:16–18).",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_12",
+      "type": "image",
+      "text": "The serene mountain horizon of the Hijaz where the Prophet returned to announce the heavenly decree.",
+      "imageName": "MountHira"
+    },
+    {
+      "id": "sec_025_13",
+      "type": "heading",
+      "text": "The Gift of the Five Daily Prayers",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_14",
+      "type": "paragraph",
+      "text": "In that exalted presence, directly without angelic mediation, God prescribed upon the Muslim community fifty daily prayers. As the Prophet descended, he passed by Prophet Musa, who inquired: 'What has your Lord commanded for your community?' When informed of the fifty prayers, Musa advised with practical compassion: 'Return to your Lord and ask for a reduction; your followers will not bear it, for I tested the Children of Israel before you.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_15",
+      "type": "paragraph",
+      "text": "Repeatedly, the Prophet ﷺ returned to his Lord, and with each petition, the requirement was mercifully reduced until it reached five daily prayers. When Musa urged him to return yet again, the Prophet replied with noble reverence: 'I have petitioned my Lord until I feel shy to ask further; rather, I am pleased and submit.' A divine voice then proclaimed: 'I have enacted My decree and lightened the burden for My servants; they are five in action, yet fifty in reward.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_16",
+      "type": "heading",
+      "text": "The Morning in Makkah and Al-Siddiq",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_17",
+      "type": "paragraph",
+      "text": "When the Prophet awakened that morning in Makkah and related the events of the Night Journey, the aristocrats of Quraysh erupted in mocking laughter. To travel from Makkah to Jerusalem and back within a single night was an utter impossibility according to desert travel times, which required a month in each direction. Abu Jahl gleefully summoned the clans: 'Come and hear what your companion claims!'",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_18",
+      "type": "paragraph",
+      "text": "Those who had visited Jerusalem challenged the Prophet to describe the architecture of the holy sanctuary. As recorded in Sahih al-Bukhari, the Prophet recounted that when certain details became challenging to recall, God unveiled Bayt al-Maqdis directly before his eyes, allowing him to describe its gates, walls, and layout stone by stone. Furthermore, he informed them of upcoming trade caravans, describing their specific camels and exact arrival times, every detail of which was subsequently verified.",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_19",
+      "type": "quote",
+      "text": "إِنْ كَانَ قَالَ ذَلِكَ فَقَدْ صَدَقَ\n'If he said it, then he has spoken the absolute truth.' — Abu Bakr al-Siddiq (Al-Mustadrak & Sirat Ibn Hisham)",
+      "imageName": null
+    },
+    {
+      "id": "sec_025_20",
+      "type": "paragraph",
+      "text": "When detractors rushed to Abu Bakr, hoping his rational mind would reject the story, he inquired calmly: 'Did he truly say that?' When they confirmed it, he declared without an instant's hesitation: 'If he said it, then he has spoken the truth! Indeed, I believe him in news far more astonishing than this—that revelation descends upon him from the heavens in the morning and evening!' For this unwavering conviction, the Prophet bestowed upon Abu Bakr the eternal title of 'Al-Siddiq'—the Champion of Truth.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_025_01",
+      "title": "The Holy Quran",
+      "author": "Surah Al-Isra (17:1) & Surah An-Najm (53:1–18)",
+      "source": "Preserved Quranic text",
+      "notes": "The primary divine scriptural foundation establishing the reality of Al-Isra and the vision of Sidrat al-Muntaha."
+    },
+    {
+      "id": "ref_025_02",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab Manaqib al-Ansar, Bab Hadith al-Isra (Hadith 3887) & Bab Bad' al-Khalq",
+      "notes": "Authentic Hadith preserving the detailed narration of Malik ibn Sa'sa'ah regarding the ascension through the heavens and the five prayers."
+    },
+    {
+      "id": "ref_025_03",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
+      "source": "Kitab al-Iman, Bab al-Isra bi Rasulillah wa Fard al-Salawat, Hadith 162, 164",
+      "notes": "Authentic documentation of the dialogue with the prophets in each heaven and the counsel of Prophet Musa regarding prayer."
+    },
+    {
+      "id": "ref_025_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "Historical narrative compiled from classical sources; editorial draft pending independent scholarly review before publication."
+    }
+  ]
+}

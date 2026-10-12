@@ -1,0 +1,140 @@
+{
+  "id": "seerah_032",
+  "collectionId": "seerah",
+  "chapterNumber": 32,
+  "languageCode": "en",
+  "title": "The Charter of Madinah",
+  "subtitle": "The First Written Constitution, Religious Pluralism, and Civic Security",
+  "summary": "The multifaceted demography of Yathrib, the drafting of the historic document known as the Charter of Madinah (Al-Sahifah), establishing the unity of the community, safeguarding freedom of faith for Jewish clans, universal civic responsibility, and the supreme rule of justice.",
+  "estimatedReadingMinutes": 10,
+  "coverImageName": "ArabianMarket",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_032_01",
+      "type": "heading",
+      "text": "The Mosaic of Madinan Society",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_02",
+      "type": "paragraph",
+      "text": "Following the construction of the Mosque and the pact of brotherhood among the Muslims, the Prophet Muhammad ﷺ turned his attention toward the broader civic fabric of Madinah. The oasis city was far from homogeneous. In addition to the Muslim community (comprising the Muhajirun and the Ansar from Aws and Khazraj), Madinah was home to large Jewish tribes—including Banu Qaynuqa, Banu al-Nadir, and Banu Qurayzah, alongside numerous allied Jewish clans—as well as non-Muslim Arab pagans who had not yet embraced Islam.",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_03",
+      "type": "paragraph",
+      "text": "In pre-Islamic Arabia, social order had rested solely on raw tribal kinship: an attack on a clansman demanded collective retaliation, regardless of right or wrong. Without a shared legal framework, the historical animosities of Yathrib threatened to erupt at any moment. Recognizing this vulnerability, the Prophet drafted an unprecedented legal and constitutional document preserved in classical historical literature as Kitab al-Madinah or Al-Sahifah (The Charter of Madinah).",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_04",
+      "type": "image",
+      "text": "The bustling courtyards and palm architecture of ancient Madinah where civic peace was codified.",
+      "imageName": "ArabianMarket"
+    },
+    {
+      "id": "sec_032_05",
+      "type": "heading",
+      "text": "Core Principles of the Historic Document",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_06",
+      "type": "paragraph",
+      "text": "Recorded by early historians such as Ibn Ishaq and Abu Ubayd in Kitab al-Amwal, the text opened with a clear declaration of civil identity: 'This is a document from Muhammad the Prophet between the believers and Muslims of Quraysh and Yathrib, and those who follow them, join them, and strive alongside them: They are one political community (Ummah wahidah) to the exclusion of all other people.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_07",
+      "type": "paragraph",
+      "text": "The document established revolutionary principles of governance, justice, and human rights that were centuries ahead of its time. First, it abolished collective tribal vengeance and established individual legal accountability: a wrongdoer could no longer hide behind his clan's prestige, and tribal solidarity was legally forbidden from protecting a murderer or criminal, even if he were a close kin.",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_08",
+      "type": "heading",
+      "text": "Freedom of Faith and the Jewish Covenant",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_09",
+      "type": "paragraph",
+      "text": "A central section of the Charter regulated the status of the Jewish communities of Madinah, establishing an extraordinary framework of religious autonomy and civic equality. The text explicitly decreed:",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_10",
+      "type": "quote",
+      "text": "وَإِنَّ يَهُودَ بَنِي عَوْفٍ أُمَّةٌ مَعَ الْمُؤْمِنِينَ، لِلْيَهُودِ دِينُهُمْ وَلِلْمُسْلِمِينَ دِينُهُمْ، مَوَالِيهِمْ وَأَنْفُسُهُمْ\n'And indeed, the Jews of Banu Awf are a community alongside the believers; the Jews have their religion and the Muslims have their religion—their clients and their own selves.' (Kitab al-Amwal by Abu Ubayd & Sirat Ibn Hisham)",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_11",
+      "type": "paragraph",
+      "text": "The Charter extended this guarantee of freedom of conscience and religious practice to the Jewish clans of Banu al-Najjar, Banu al-Harith, Banu Sa'idah, Banu Jusham, Banu al-Aws, and Banu Tha'labah. Their properties, synagogues, and traditional customs were protected under law, on the condition that they acted with integrity and committed no treason or oppression.",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_12",
+      "type": "image",
+      "text": "The mountain valleys of Madinah that formed an inviolable sanctuary of security under the Charter.",
+      "imageName": "MountHira"
+    },
+    {
+      "id": "sec_032_13",
+      "type": "heading",
+      "text": "Mutual Defense and the Rule of Law",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_14",
+      "type": "paragraph",
+      "text": "In exchange for full citizenship and religious freedom, the Charter established mutual civic and defensive obligations. All signatories—Muslims, Jews, and allied clans—were bound to mutual consultation, sincere counsel, and collective defense. If Madinah were attacked by an external enemy, all factions were obligated to join in defending the valley, each community bearing its respective financial expenditures during wartime.",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_15",
+      "type": "paragraph",
+      "text": "Furthermore, the valley of Yathrib was solemnly declared an inviolable sacred sanctuary (Haram) wherein all bloodshed, injustice, and warfare among the signatories were strictly prohibited. In the event of any civil dispute or murder that threatened the peace of the oasis, the matter was to be referred for supreme arbitration to God and His Messenger Muhammad ﷺ.",
+      "imageName": null
+    },
+    {
+      "id": "sec_032_16",
+      "type": "paragraph",
+      "text": "Modern legal historians widely recognize the Charter of Madinah as the earliest written constitution in human history establishing a pluralistic, multi-religious civic compact based on mutual consent rather than conquest. While scholars treat later interpretative anachronisms with academic care, the historical reality of the Sahifah stands as an enduring monument to prophetic wisdom, social justice, and constitutional governance.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_032_01",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham (d. 218 AH)",
+      "source": "Vol. 1: Kitab Rasulillah bayna al-Muhajirin wa al-Ansar wa Muwada'at Yahud (Sahifat al-Madinah)",
+      "notes": "Primary classical transmission of the text of the Charter of Madinah recorded from Ibn Ishaq."
+    },
+    {
+      "id": "ref_032_02",
+      "title": "Kitab al-Amwal",
+      "author": "Abu Ubayd al-Qasim ibn Sallam (d. 224 AH)",
+      "source": "Bab Kitab al-Nabi bayna Ahl al-Madinah wa Yahud, Hadith 518",
+      "notes": "Early juristic compilation preserving the authenticated legal clauses and textual transmission of the Sahifah."
+    },
+    {
+      "id": "ref_032_03",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari (d. 310 AH)",
+      "source": "Vol. 2: Events of Year 1 AH and the Constitutional Organization of Yathrib",
+      "notes": "Historical analysis of the political landscape in Madinah and the covenants concluded with local tribes."
+    },
+    {
+      "id": "ref_032_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "Historical narrative compiled from classical sources; editorial draft pending independent scholarly review before publication."
+    }
+  ]
+}

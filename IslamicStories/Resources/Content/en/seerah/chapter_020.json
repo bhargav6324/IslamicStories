@@ -1,0 +1,182 @@
+{
+  "id": "seerah_020",
+  "collectionId": "seerah",
+  "chapterNumber": 20,
+  "languageCode": "en",
+  "title": "Before the Negus",
+  "subtitle": "Diplomatic Intrigue, the Defense of Ja'far, and Surah Maryam",
+  "summary": "The second migration to Abyssinia, the Quraysh delegation of 'Amr ibn al-'As and 'Abdullah ibn Abi Rabi'ah, their gifts to the bishops, the audience before the Negus, Ja'far ibn Abi Talib's description of the change from Jahiliyyah to Islam, the recitation from Surah Maryam, and the Negus's protection of the Muslims.",
+  "estimatedReadingMinutes": 7,
+  "coverImageName": "SeerahChapter020Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_020_01",
+      "type": "heading",
+      "text": "The Second Migration and Quraysh's Alarm",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_02",
+      "type": "paragraph",
+      "text": "After the first emigrants, a second and much larger group left Makkah for Abyssinia, among them the Prophet's cousin Ja'far ibn Abi Talib. Ibn Ishaq counts more than eighty men in this migration, together with a number of women and children. Umm Salamah relates, in her report in Musnad Ahmad, that when Quraysh saw the Muslims living in safety there, they resolved to act.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_03",
+      "type": "paragraph",
+      "text": "In Umm Salamah's report, Quraysh agreed to send two determined men to the Negus, 'Amr ibn al-'As and 'Abdullah ibn Abi Rabi'ah, with gifts of the goods of Makkah that were most valued there; leather was the most prized of them.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_04",
+      "type": "heading",
+      "text": "Diplomatic Intrigue in the Court of Aksum",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_05",
+      "type": "paragraph",
+      "text": "Umm Salamah relates that the two envoys first gave every one of the Negus's patriarchs his gift before they spoke to the king, telling each of them: 'Some foolish young men of our people have taken refuge in the king's land. They have abandoned the religion of their people and have not entered your religion, but have brought an invented religion unknown to us or to you.' They asked the patriarchs to advise the king to hand them over without speaking to them.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_06",
+      "type": "paragraph",
+      "text": "Then the envoys presented their gifts to the Negus and asked him to return the emigrants to their people, who knew them best and knew what they found fault with in them. The patriarchs around him said: 'They have spoken the truth, O King. Their people know them best; hand them over to the two of them.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_07",
+      "type": "paragraph",
+      "text": "The Negus became angry and said: 'No, by God, I will not hand them over to these two. They are people who have sought my protection, settled in my land and chosen me over others. I will not do so until I summon them and ask them about what these two say concerning them.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_08",
+      "type": "image",
+      "text": "The mountain kingdom landscape of ancient Aksum where the historic royal audience took place.",
+      "imageName": "AbyssinianLandscape"
+    },
+    {
+      "id": "sec_020_09",
+      "type": "heading",
+      "text": "The Royal Audience: Ja'far ibn Abi Talib's Defense",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_10",
+      "type": "paragraph",
+      "text": "The Negus summoned the Prophet's Companions. Umm Salamah relates that they agreed among themselves to say what they knew and what their Prophet had commanded, whatever the outcome, and Ja'far ibn Abi Talib spoke for them. The Negus asked: 'What is this religion for which you have parted from your people, without entering my religion or the religion of any of these communities?'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_11",
+      "type": "paragraph",
+      "text": "Ja'far's reply is preserved in the report of Umm Salamah in Musnad Ahmad, which Ibn Ishaq transmitted from al-Zuhri, and in the Sirah of Ibn Hisham:",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_12",
+      "type": "quote",
+      "text": "\"O King! We were a people of ignorance: worshipping idols, eating carrion, committing indecencies, severing family ties, mistreating neighbours, and the strong among us devoured the weak. We remained so until God sent us a Messenger from among ourselves, whose lineage, truthfulness, trustworthiness and chastity we knew. He called us to God, to affirm His oneness and worship Him, and to cast away the stones and idols which we and our fathers worshipped besides Him. He commanded us to speak the truth, fulfil trusts, maintain family ties, treat neighbours well, and refrain from forbidden things and from bloodshed. He forbade us indecencies, false speech, consuming the orphan's wealth and slandering chaste women. He commanded us to worship God alone, associating nothing with Him, and commanded us to pray, give charity and fast. So we believed him and had faith in him... Then our people attacked us, tortured us and tried to turn us from our religion, to take us back to the worship of idols. When they overpowered and oppressed us, we came out to your land, chose you over others, desired your protection, and hoped that we would not be wronged with you, O King.\" — Umm Salamah, Musnad Ahmad, Hadith 1740 (through Ibn Ishaq); also in the Sirah of Ibn Hisham",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_13",
+      "type": "heading",
+      "text": "The Recitation of Surah Maryam",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_14",
+      "type": "paragraph",
+      "text": "The Negus asked Ja'far: 'Do you have with you anything of what he brought from God?' Ja'far answered: 'Yes.' The Negus said: 'Then recite it to me.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_15",
+      "type": "paragraph",
+      "text": "In Umm Salamah's words, Ja'far 'recited to him a portion from the beginning of Kaf-Ha-Ya-'Ayn-Sad', that is, Surah Maryam. The report does not say exactly which verses he recited. The opening of the surah tells of Zakariyya and the birth of Yahya (John), and then of Maryam, including these verses:",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_16",
+      "type": "quote",
+      "text": "﴿وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا ۝ فَاتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا﴾\n\n\"And mention in the Book, Mary, when she withdrew from her family to an eastern place. And she took, in seclusion from them, a screen. Then We sent to her Our Angel, and he represented himself to her as a well-proportioned man.\" — Surah Maryam (19:16–17)",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_17",
+      "type": "paragraph",
+      "text": "Umm Salamah relates that the Negus wept until his beard was wet, and his bishops wept until their scrolls were wet, when they heard what was recited to them.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_18",
+      "type": "paragraph",
+      "text": "Then the Negus said, in the wording of Musnad Ahmad: 'This and what Musa (Moses) brought come from the same lamp-niche (mishkat).' Other versions of the report give the name as 'Isa (Jesus). He then told the envoys: 'Go. By God, I will never hand them over to you.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_19",
+      "type": "heading",
+      "text": "The Second Interrogation on Jesus and Absolute Asylum",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_20",
+      "type": "paragraph",
+      "text": "Umm Salamah relates that 'Amr ibn al-'As resolved to try again, and the next day he told the king: 'O King! They say a terrible thing about 'Isa ibn Maryam.' The Negus sent for the Muslims to ask them what they said about Jesus.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_21",
+      "type": "paragraph",
+      "text": "The Muslims were alarmed, but agreed to say what God had said and what their Prophet had brought, whatever the outcome. Ja'far said: 'We say about him what our Prophet brought: he is the servant of God, His messenger, His spirit, and His word which He cast to Maryam, the virgin, the chaste.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_22",
+      "type": "paragraph",
+      "text": "The Negus struck his hand on the ground, picked up a small stick, and said: ''Isa ibn Maryam does not go beyond what you have said by the length of this stick.' His patriarchs snorted in disapproval, and he said: 'Even if you snort, by God!' He told the Muslims: 'Go, you are safe in my land; whoever abuses you will be fined.' Then he ordered the gifts of Quraysh to be returned to the envoys.",
+      "imageName": null
+    },
+    {
+      "id": "sec_020_23",
+      "type": "paragraph",
+      "text": "The envoys returned to Makkah without success, and the emigrants lived on in safety under the protection of the Negus. Ja'far's words before the king remain one of the best-known statements of what Islam had brought to its first followers.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_020_01",
+      "title": "Musnad Ahmad",
+      "author": "Imam Ahmad ibn Hanbal (d. 241 AH)",
+      "source": "Musnad Ahl al-Bayt, Hadith of Ja'far ibn Abi Talib, Hadith 1740",
+      "notes": "Umm Salamah's account of the migration to Abyssinia, transmitted by Ibn Ishaq from al-Zuhri: the delegation, Ja'far's speech, the recitation from Surah Maryam and the Negus's reply."
+    },
+    {
+      "id": "ref_020_02",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham (d. 218 AH)",
+      "source": "Vol. 1: The Delegation of Quraysh to the Negus and Ja'far's Address",
+      "notes": "Classical biography transmitting Ibn Ishaq's account of the delegation of Quraysh, Ja'far's address and the Negus's judgment. Some of its wording differs from the version in Musnad Ahmad."
+    },
+    {
+      "id": "ref_020_03",
+      "title": "The Holy Quran",
+      "author": "Surah Maryam (19:16–17)",
+      "source": "Preserved Quranic text",
+      "notes": "Verses from the opening part of Surah Maryam. The narration says Ja'far recited from the beginning of the surah but does not specify the verses."
+    },
+    {
+      "id": "ref_020_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "This is an editorial status notice, not a historical source. The chapter is a narrative draft compiled from the classical works listed above and has not yet been independently reviewed by qualified scholars."
+    }
+  ]
+}

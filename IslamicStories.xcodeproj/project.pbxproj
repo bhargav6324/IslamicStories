@@ -1,0 +1,668 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07D471E455B891AF76ABD1F9 /* IslamicStoriesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D86A9CB13209413EB83017 /* IslamicStoriesApp.swift */; };
+		16AD1E85702F2BD150CC77D1 /* CollectionCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB26F8AE7F16FC4F4B2D1587 /* CollectionCard.swift */; };
+		182D012A496E6489A03F2454 /* TabBarManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */; };
+		183D541112A70F81106A62EE /* LanguageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D097853DF0E247F021A277D5 /* LanguageManager.swift */; };
+		1AA9431BD98A203FAB938ADE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C980684242A952EEE3C1683 /* Assets.xcassets */; };
+		1B5FCAA4E9B1C0B116595E8E /* ReaderSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0218F4358CECA6E7702E635A /* ReaderSettingsView.swift */; };
+		2107F7C4B68C02CD5F1A2296 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0D0DD853890746D2E320FE /* SettingsView.swift */; };
+		27E5DC6EA75BE52C02786905 /* AppSpacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66AA2E7F2821C517F28A483 /* AppSpacing.swift */; };
+		289CCDC14EC054F147ABB631 /* ChapterCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727FC2A530610B34BEEE58A2 /* ChapterCard.swift */; };
+		2C1EC24929E48D9D6D4C0CD7 /* SpeechNarrationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7636FDF9FA1542BABE538AF8 /* SpeechNarrationService.swift */; };
+		30155F05AB8BB3CC342D4992 /* SpeechNarrationServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */; };
+		31A5CE83EDB4A2F9324622A1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15603AE86B23DE028DA3AA3C /* HomeView.swift */; };
+		48170D1353AED1119F51FE79 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFE677DB1F6DF0BA15C22 /* WelcomeView.swift */; };
+		4E80D09F396F200F4D1E2660 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD493B48D81C81D9BD1880B0 /* LibraryView.swift */; };
+		55CC76878E04913AFFE6D289 /* ReadingProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C5FAD500525FBA109041AB /* ReadingProgressBar.swift */; };
+		5B2BA5C2376F6C1F71094554 /* StoryChapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0756149A66CB0CB08F792E03 /* StoryChapter.swift */; };
+		5C53B7E010588A966DD0F302 /* FloatingBottomNavBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD85842D3640B550F31BED49 /* FloatingBottomNavBar.swift */; };
+		6522A8A8528435817FEC690E /* StoryCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EED2A3ECD58F562B419D367 /* StoryCollection.swift */; };
+		67B3C2D10D98071BCF6722A0 /* AppTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A985CFC35B5FD247AFCA8A /* AppTypography.swift */; };
+		7206ECDE57A67F70A3A01A00 /* StoryReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B15F2B57C93F2727DB10394 /* StoryReference.swift */; };
+		7E24FE4139AA4BAAAD97C5EF /* AudioPlayerBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4D3388B37522B39837C0B7 /* AudioPlayerBar.swift */; };
+		85E71F021191A82B3BDE38BE /* LanguageSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40947705A4A0DEAA29E8F50 /* LanguageSelectionView.swift */; };
+		8FC3F842A6FD11390F777DB9 /* ReadingProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563654DAEBDBA4A8175FC4E8 /* ReadingProgress.swift */; };
+		911AC2B2EDC694C5A398F3EA /* Content in Resources */ = {isa = PBXBuildFile; fileRef = CFE949BC4689D42542412FCE /* Content */; };
+		97CD56405B3E745F6CABEAD9 /* SeerahContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */; };
+		C255DA50920E76D5BAB2E0E8 /* SeerahCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C47D86BC124ACD7B661BD9C /* SeerahCollectionView.swift */; };
+		CAF39A8373D7C0C4DEB2D521 /* IslamicPatternView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEE1A11A97862D4321A2D14 /* IslamicPatternView.swift */; };
+		D91AEB927FD76520220BC550 /* BookmarksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67672CAD0B89630540D36E13 /* BookmarksView.swift */; };
+		DE9712DADBFE748505EE0738 /* StorySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A84B81146F1E36BE8A0DFD /* StorySection.swift */; };
+		DEA143330FCFE7A3769F72CA /* ChapterReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF4A89C482329FC1F59406FC /* ChapterReaderView.swift */; };
+		F12CED7A0C298E2B4D7F1AEB /* AppStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B4ED30C65150B35431D8B9 /* AppStrings.swift */; };
+		F1F7C7D134BC0D99541E2330 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240D497EC7D365F5191E8645 /* AppColors.swift */; };
+		F41BFA1A53042A7504948C92 /* ReadingProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58380D492A1744F4E46991F /* ReadingProgressStore.swift */; };
+		FAAA7032591058E6F47BC8BA /* ContentRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6B82CF169626BE209EC0F5 /* ContentRepository.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E3F57447D44EBEC8EFECA493 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DC7E0AC399F36E3E99A8572A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5FEE7492F2C92159C0F90BAC;
+			remoteInfo = IslamicStories;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01A985CFC35B5FD247AFCA8A /* AppTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTypography.swift; sourceTree = "<group>"; };
+		01C5FAD500525FBA109041AB /* ReadingProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgressBar.swift; sourceTree = "<group>"; };
+		0218F4358CECA6E7702E635A /* ReaderSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderSettingsView.swift; sourceTree = "<group>"; };
+		0756149A66CB0CB08F792E03 /* StoryChapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryChapter.swift; sourceTree = "<group>"; };
+		0C47D86BC124ACD7B661BD9C /* SeerahCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeerahCollectionView.swift; sourceTree = "<group>"; };
+		12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechNarrationServiceTests.swift; sourceTree = "<group>"; };
+		15603AE86B23DE028DA3AA3C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		19B4ED30C65150B35431D8B9 /* AppStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStrings.swift; sourceTree = "<group>"; };
+		1E0D0DD853890746D2E320FE /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarManager.swift; sourceTree = "<group>"; };
+		240D497EC7D365F5191E8645 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
+		2C980684242A952EEE3C1683 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		36D86A9CB13209413EB83017 /* IslamicStoriesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslamicStoriesApp.swift; sourceTree = "<group>"; };
+		37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeerahContentTests.swift; sourceTree = "<group>"; };
+		3E4D3388B37522B39837C0B7 /* AudioPlayerBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerBar.swift; sourceTree = "<group>"; };
+		4B15F2B57C93F2727DB10394 /* StoryReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryReference.swift; sourceTree = "<group>"; };
+		4EED2A3ECD58F562B419D367 /* StoryCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCollection.swift; sourceTree = "<group>"; };
+		563654DAEBDBA4A8175FC4E8 /* ReadingProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgress.swift; sourceTree = "<group>"; };
+		5C9100A15AD6A142A5FA19F0 /* IslamicStories.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = IslamicStories.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		67672CAD0B89630540D36E13 /* BookmarksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksView.swift; sourceTree = "<group>"; };
+		6A6B82CF169626BE209EC0F5 /* ContentRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentRepository.swift; sourceTree = "<group>"; };
+		727FC2A530610B34BEEE58A2 /* ChapterCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCard.swift; sourceTree = "<group>"; };
+		7636FDF9FA1542BABE538AF8 /* SpeechNarrationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechNarrationService.swift; sourceTree = "<group>"; };
+		89A84B81146F1E36BE8A0DFD /* StorySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorySection.swift; sourceTree = "<group>"; };
+		9B1AFE677DB1F6DF0BA15C22 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		9BEE1A11A97862D4321A2D14 /* IslamicPatternView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslamicPatternView.swift; sourceTree = "<group>"; };
+		A58380D492A1744F4E46991F /* ReadingProgressStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgressStore.swift; sourceTree = "<group>"; };
+		AB26F8AE7F16FC4F4B2D1587 /* CollectionCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionCard.swift; sourceTree = "<group>"; };
+		AD85842D3640B550F31BED49 /* FloatingBottomNavBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingBottomNavBar.swift; sourceTree = "<group>"; };
+		BEF88448D4073E23F8F353BB /* IslamicStoriesTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = IslamicStoriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C66AA2E7F2821C517F28A483 /* AppSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSpacing.swift; sourceTree = "<group>"; };
+		CD493B48D81C81D9BD1880B0 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		CFE949BC4689D42542412FCE /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Content; path = IslamicStories/Resources/Content; sourceTree = SOURCE_ROOT; };
+		D097853DF0E247F021A277D5 /* LanguageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageManager.swift; sourceTree = "<group>"; };
+		D40947705A4A0DEAA29E8F50 /* LanguageSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageSelectionView.swift; sourceTree = "<group>"; };
+		DF4A89C482329FC1F59406FC /* ChapterReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterReaderView.swift; sourceTree = "<group>"; };
+		E8613FC4DC4507786B4707D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0C73F195A19D39837966F097 /* Reader */ = {
+			isa = PBXGroup;
+			children = (
+				DF4A89C482329FC1F59406FC /* ChapterReaderView.swift */,
+				0218F4358CECA6E7702E635A /* ReaderSettingsView.swift */,
+			);
+			path = Reader;
+			sourceTree = "<group>";
+		};
+		160A88A23532151F0A3B75B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5C9100A15AD6A142A5FA19F0 /* IslamicStories.app */,
+				BEF88448D4073E23F8F353BB /* IslamicStoriesTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24053F95288B15DA3EECA86D /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				D40947705A4A0DEAA29E8F50 /* LanguageSelectionView.swift */,
+				9B1AFE677DB1F6DF0BA15C22 /* WelcomeView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		28991D859E3AEC4C41834E35 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				A58380D492A1744F4E46991F /* ReadingProgressStore.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		4822212F935CCC0177FAD1C2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9ADF8AA83D704791C51AD6BB /* Bookmarks */,
+				5CEADF427C787148421E3A37 /* Collections */,
+				A2CFF693D455800C463F707D /* Home */,
+				996A028D4FB3336D9277BF57 /* Library */,
+				24053F95288B15DA3EECA86D /* Onboarding */,
+				0C73F195A19D39837966F097 /* Reader */,
+				8C8096DF8B5F05863B44DC96 /* Settings */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		57AEF19643D43D91DE7194F1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				563654DAEBDBA4A8175FC4E8 /* ReadingProgress.swift */,
+				0756149A66CB0CB08F792E03 /* StoryChapter.swift */,
+				4EED2A3ECD58F562B419D367 /* StoryCollection.swift */,
+				4B15F2B57C93F2727DB10394 /* StoryReference.swift */,
+				89A84B81146F1E36BE8A0DFD /* StorySection.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5CEADF427C787148421E3A37 /* Collections */ = {
+			isa = PBXGroup;
+			children = (
+				0C47D86BC124ACD7B661BD9C /* SeerahCollectionView.swift */,
+			);
+			path = Collections;
+			sourceTree = "<group>";
+		};
+		72B63C1F1BD3847538934281 /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				240D497EC7D365F5191E8645 /* AppColors.swift */,
+				C66AA2E7F2821C517F28A483 /* AppSpacing.swift */,
+				01A985CFC35B5FD247AFCA8A /* AppTypography.swift */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
+		76191B26EF51A4D14128EC82 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				36D86A9CB13209413EB83017 /* IslamicStoriesApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		765F5A26D21947345442D5C1 /* IslamicStoriesTests */ = {
+			isa = PBXGroup;
+			children = (
+				37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */,
+				12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */,
+			);
+			path = IslamicStoriesTests;
+			sourceTree = "<group>";
+		};
+		87F25EBA0FCC79F732638629 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				19B4ED30C65150B35431D8B9 /* AppStrings.swift */,
+				6A6B82CF169626BE209EC0F5 /* ContentRepository.swift */,
+				D097853DF0E247F021A277D5 /* LanguageManager.swift */,
+				7636FDF9FA1542BABE538AF8 /* SpeechNarrationService.swift */,
+				22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		8C8096DF8B5F05863B44DC96 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				1E0D0DD853890746D2E320FE /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		996A028D4FB3336D9277BF57 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				CD493B48D81C81D9BD1880B0 /* LibraryView.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		9ADF8AA83D704791C51AD6BB /* Bookmarks */ = {
+			isa = PBXGroup;
+			children = (
+				67672CAD0B89630540D36E13 /* BookmarksView.swift */,
+			);
+			path = Bookmarks;
+			sourceTree = "<group>";
+		};
+		9D376E757826AF0850BECAEC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2C980684242A952EEE3C1683 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A2CFF693D455800C463F707D /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				15603AE86B23DE028DA3AA3C /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		B3DBEEE0DBE3B4F0AF1D2417 /* IslamicStories */ = {
+			isa = PBXGroup;
+			children = (
+				E8613FC4DC4507786B4707D8 /* Info.plist */,
+				76191B26EF51A4D14128EC82 /* App */,
+				C7B067D8F33E6015F9AFF8D0 /* Components */,
+				72B63C1F1BD3847538934281 /* DesignSystem */,
+				57AEF19643D43D91DE7194F1 /* Models */,
+				28991D859E3AEC4C41834E35 /* Persistence */,
+				9D376E757826AF0850BECAEC /* Resources */,
+				87F25EBA0FCC79F732638629 /* Services */,
+				4822212F935CCC0177FAD1C2 /* Views */,
+			);
+			path = IslamicStories;
+			sourceTree = "<group>";
+		};
+		C7B067D8F33E6015F9AFF8D0 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				3E4D3388B37522B39837C0B7 /* AudioPlayerBar.swift */,
+				727FC2A530610B34BEEE58A2 /* ChapterCard.swift */,
+				AB26F8AE7F16FC4F4B2D1587 /* CollectionCard.swift */,
+				AD85842D3640B550F31BED49 /* FloatingBottomNavBar.swift */,
+				9BEE1A11A97862D4321A2D14 /* IslamicPatternView.swift */,
+				01C5FAD500525FBA109041AB /* ReadingProgressBar.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		E3346C034587FF6644378F39 = {
+			isa = PBXGroup;
+			children = (
+				CFE949BC4689D42542412FCE /* Content */,
+				B3DBEEE0DBE3B4F0AF1D2417 /* IslamicStories */,
+				765F5A26D21947345442D5C1 /* IslamicStoriesTests */,
+				160A88A23532151F0A3B75B5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		39B8E5047AC530955442DD22 /* IslamicStoriesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D14CDCB8BE8CAD11ED899E8B /* Build configuration list for PBXNativeTarget "IslamicStoriesTests" */;
+			buildPhases = (
+				EA64243B8A6113D660B5859F /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7411E8DAB787DE65CCDF8FBE /* PBXTargetDependency */,
+			);
+			name = IslamicStoriesTests;
+			packageProductDependencies = (
+			);
+			productName = IslamicStoriesTests;
+			productReference = BEF88448D4073E23F8F353BB /* IslamicStoriesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5FEE7492F2C92159C0F90BAC /* IslamicStories */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2EBA16EDF4DA4E43E47B1C6E /* Build configuration list for PBXNativeTarget "IslamicStories" */;
+			buildPhases = (
+				4B9374EC793C96119C0F8588 /* Sources */,
+				C083789427564AB4BF6B6290 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IslamicStories;
+			packageProductDependencies = (
+			);
+			productName = IslamicStories;
+			productReference = 5C9100A15AD6A142A5FA19F0 /* IslamicStories.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DC7E0AC399F36E3E99A8572A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					39B8E5047AC530955442DD22 = {
+						DevelopmentTeam = 67H9LYH78R;
+						ProvisioningStyle = Automatic;
+					};
+					5FEE7492F2C92159C0F90BAC = {
+						DevelopmentTeam = 67H9LYH78R;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 32F1A42E0E97CA4DB7EF322D /* Build configuration list for PBXProject "IslamicStories" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = E3346C034587FF6644378F39;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 160A88A23532151F0A3B75B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5FEE7492F2C92159C0F90BAC /* IslamicStories */,
+				39B8E5047AC530955442DD22 /* IslamicStoriesTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C083789427564AB4BF6B6290 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AA9431BD98A203FAB938ADE /* Assets.xcassets in Resources */,
+				911AC2B2EDC694C5A398F3EA /* Content in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4B9374EC793C96119C0F8588 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1F7C7D134BC0D99541E2330 /* AppColors.swift in Sources */,
+				27E5DC6EA75BE52C02786905 /* AppSpacing.swift in Sources */,
+				F12CED7A0C298E2B4D7F1AEB /* AppStrings.swift in Sources */,
+				67B3C2D10D98071BCF6722A0 /* AppTypography.swift in Sources */,
+				7E24FE4139AA4BAAAD97C5EF /* AudioPlayerBar.swift in Sources */,
+				D91AEB927FD76520220BC550 /* BookmarksView.swift in Sources */,
+				289CCDC14EC054F147ABB631 /* ChapterCard.swift in Sources */,
+				DEA143330FCFE7A3769F72CA /* ChapterReaderView.swift in Sources */,
+				16AD1E85702F2BD150CC77D1 /* CollectionCard.swift in Sources */,
+				FAAA7032591058E6F47BC8BA /* ContentRepository.swift in Sources */,
+				5C53B7E010588A966DD0F302 /* FloatingBottomNavBar.swift in Sources */,
+				31A5CE83EDB4A2F9324622A1 /* HomeView.swift in Sources */,
+				CAF39A8373D7C0C4DEB2D521 /* IslamicPatternView.swift in Sources */,
+				07D471E455B891AF76ABD1F9 /* IslamicStoriesApp.swift in Sources */,
+				183D541112A70F81106A62EE /* LanguageManager.swift in Sources */,
+				85E71F021191A82B3BDE38BE /* LanguageSelectionView.swift in Sources */,
+				4E80D09F396F200F4D1E2660 /* LibraryView.swift in Sources */,
+				1B5FCAA4E9B1C0B116595E8E /* ReaderSettingsView.swift in Sources */,
+				8FC3F842A6FD11390F777DB9 /* ReadingProgress.swift in Sources */,
+				55CC76878E04913AFFE6D289 /* ReadingProgressBar.swift in Sources */,
+				F41BFA1A53042A7504948C92 /* ReadingProgressStore.swift in Sources */,
+				C255DA50920E76D5BAB2E0E8 /* SeerahCollectionView.swift in Sources */,
+				2107F7C4B68C02CD5F1A2296 /* SettingsView.swift in Sources */,
+				2C1EC24929E48D9D6D4C0CD7 /* SpeechNarrationService.swift in Sources */,
+				5B2BA5C2376F6C1F71094554 /* StoryChapter.swift in Sources */,
+				6522A8A8528435817FEC690E /* StoryCollection.swift in Sources */,
+				7206ECDE57A67F70A3A01A00 /* StoryReference.swift in Sources */,
+				DE9712DADBFE748505EE0738 /* StorySection.swift in Sources */,
+				182D012A496E6489A03F2454 /* TabBarManager.swift in Sources */,
+				48170D1353AED1119F51FE79 /* WelcomeView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA64243B8A6113D660B5859F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97CD56405B3E745F6CABEAD9 /* SeerahContentTests.swift in Sources */,
+				30155F05AB8BB3CC342D4992 /* SpeechNarrationServiceTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7411E8DAB787DE65CCDF8FBE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5FEE7492F2C92159C0F90BAC /* IslamicStories */;
+			targetProxy = E3F57447D44EBEC8EFECA493 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		14C8A46B7A6C86B9064CF677 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1BD7753130EEF5037EE302F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 67H9LYH78R;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = IslamicStories/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.islamicstories.app;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A7F4D7601EE27AB62F671598 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 67H9LYH78R;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = IslamicStories/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.islamicstories.app;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		AEF2F1B014CAC1D21579EEC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 67H9LYH78R;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.islamicstories.app.tests;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IslamicStories.app/IslamicStories";
+			};
+			name = Release;
+		};
+		D1782C3D979116DF57115A52 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 67H9LYH78R;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.islamicstories.app.tests;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IslamicStories.app/IslamicStories";
+			};
+			name = Debug;
+		};
+		FF7FBDF67BC6C8BE66E28884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2EBA16EDF4DA4E43E47B1C6E /* Build configuration list for PBXNativeTarget "IslamicStories" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BD7753130EEF5037EE302F3 /* Debug */,
+				A7F4D7601EE27AB62F671598 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		32F1A42E0E97CA4DB7EF322D /* Build configuration list for PBXProject "IslamicStories" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF7FBDF67BC6C8BE66E28884 /* Debug */,
+				14C8A46B7A6C86B9064CF677 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D14CDCB8BE8CAD11ED899E8B /* Build configuration list for PBXNativeTarget "IslamicStoriesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1782C3D979116DF57115A52 /* Debug */,
+				AEF2F1B014CAC1D21579EEC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DC7E0AC399F36E3E99A8572A /* Project object */;
+}

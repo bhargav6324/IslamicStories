@@ -1,0 +1,176 @@
+{
+  "id": "seerah_012",
+  "collectionId": "seerah",
+  "chapterNumber": 12,
+  "languageCode": "en",
+  "title": "The Night Everything Changed",
+  "subtitle": "The Descent of Revelation, Cave Hira, and Waraqah ibn Nawfal",
+  "summary": "The momentous night in the Cave of Hira during Ramadan, the arrival of Angel Jibril, the first revelation of Surah Al-Alaq, the Prophet's trembling return to Khadijah, her timeless reassurance, and the confirmation by Waraqah ibn Nawfal.",
+  "estimatedReadingMinutes": 5,
+  "coverImageName": "SeerahChapter012Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_012_01",
+      "type": "heading",
+      "text": "The Night of Ramadan in Cave Hira",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_02",
+      "type": "paragraph",
+      "text": "Most biographers place the first revelation in the month of Ramadan, around 610 CE, when Muhammad ﷺ was about forty years old and engaged in one of his retreats in the Cave of Hira. Many associate it with Laylat al-Qadr (the Night of Decree), in light of the Qur'an's statement that it was sent down on that night (97:1), though the exact date is disputed. It came after the period of true dreams that broke upon him like the light of dawn.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_03",
+      "type": "paragraph",
+      "text": "While he was in the cave, the Angel Jibril (Gabriel), who had brought revelation to earlier messengers, came to him and said: 'Iqra'!' (Read / Recite).",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_04",
+      "type": "paragraph",
+      "text": "As recorded in the foundational narration of 'A'ishah in Sahih al-Bukhari, Muhammad replied with honest humility: 'Ma ana bi-qari'' (I cannot read / What shall I recite?), for he had received no formal schooling and was not literate in scripts. The angel took hold of him and embraced him with overwhelming physical force until he reached the limit of his endurance, then released him and repeated: 'Iqra'!'",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_05",
+      "type": "paragraph",
+      "text": "Again Muhammad answered: 'Ma ana bi-qari'.' The angel embraced him a second time with equal intensity until he was exhausted, then released him and commanded a third time: 'Iqra'!' Upon his third humble reply, Jibril imparted the very first divine words of the Holy Quran, the opening verses of Surah Al-Alaq.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_06",
+      "type": "heading",
+      "text": "The First Divine Verses",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_07",
+      "type": "quote",
+      "text": "﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ ۝ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ ۝ الَّذِي عَلَّمَ بِالْقَلَمِ ۝ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ﴾\n\n\"Recite in the name of your Lord who created — Created man from a clinging clot. Recite, and your Lord is the most Generous — Who taught by the pen — Taught man that which he knew not.\" — Surah Al-Alaq (96:1–5)",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_08",
+      "type": "paragraph",
+      "text": "These majestic words marked the end of the long era of prophetic silence and the inauguration of the final message to humanity. The verses linked the majesty of creation to the divine gift of knowledge and the written word, establishing literacy, learning, and consciousness of the Creator as the foundation of the new faith.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_09",
+      "type": "image",
+      "text": "The entrance of Cave Hira overlooking the rugged mountain slopes and valley of Makkah.",
+      "imageName": "MountHira"
+    },
+    {
+      "id": "sec_012_10",
+      "type": "heading",
+      "text": "The Trembling Return to Khadijah",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_11",
+      "type": "paragraph",
+      "text": "Sahih al-Bukhari records that he returned with these verses, his heart trembling. Ibn Ishaq and other sirah writers add that as he made his way home he heard stones and trees greeting him with peace; this addition is a sirah report rather than part of the hadith of 'A'ishah.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_12",
+      "type": "paragraph",
+      "text": "He came to his wife Khadijah, his heart trembling, and said: 'Zammiluni! Zammiluni!' (Wrap me up! Wrap me up!). She wrapped him until the fear left him.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_13",
+      "type": "paragraph",
+      "text": "Then he told Khadijah what had happened in the cave and said: 'I fear for myself.' Scholars have explained this fear in different ways: some said he feared for his life or health after what he had seen, others that he feared he would not be able to bear the burden of what had been given to him.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_14",
+      "type": "heading",
+      "text": "Khadijah's Timeless Reassurance",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_15",
+      "type": "paragraph",
+      "text": "Khadijah answered him with words preserved in Sahih al-Bukhari: 'Never! By God, God will never disgrace you. You uphold the ties of kinship, you bear the burden of the weak, you provide for the destitute, you honour the guest, and you help those afflicted by genuine calamities.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_16",
+      "type": "quote",
+      "text": "\"Never! By Allah, Allah will never disgrace you. You uphold the ties of kinship, you carry the burden of the helpless, you give to the destitute, you honor the guest, and you assist those afflicted by calamities.\" — Sahih al-Bukhari, Hadith 3; Sahih Muslim, Hadith 160",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_17",
+      "type": "paragraph",
+      "text": "Khadijah's reasoning was grounded in deep moral logic: a person whose entire life was dedicated to justice, charity, honesty, and compassion could never be abandoned by the Creator to demonic deception. Her faith and moral clarity provided the immediate anchor that restored his composure.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_18",
+      "type": "heading",
+      "text": "The Consultation with Waraqah ibn Nawfal",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_19",
+      "type": "paragraph",
+      "text": "Khadijah then took Muhammad to her cousin, Waraqah ibn Nawfal ibn Asad, an old man who had become blind. He had embraced Christianity before Islam. In the wording of Sahih al-Bukhari, he used to write the Hebrew script and wrote from the Gospel in Hebrew; another narration, in Sahih Muslim, says he wrote in Arabic.",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_20",
+      "type": "paragraph",
+      "text": "Khadijah said: 'O cousin, listen to what your nephew has to say.' Muhammad related the exact details of the encounter in the cave. Upon hearing the account, Waraqah exclaimed without hesitation: 'This is the Namus (The Heavenly Angel of Revelation) whom Allah sent down upon Musa (Moses)! Would that I were a young man! Would that I were alive when your people expel you!'",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_21",
+      "type": "paragraph",
+      "text": "Muhammad asked: 'Will they really drive me out?' Waraqah answered: 'Yes. No man has ever brought the like of what you have brought without being treated with hostility. If I live to see your day, I will support you strongly.'",
+      "imageName": null
+    },
+    {
+      "id": "sec_012_22",
+      "type": "paragraph",
+      "text": "Waraqah passed away shortly after this conversation, and a temporary pause in revelation (Fatrat al-Wahy) ensued, leaving the Prophet yearning for the return of the heavenly voice. Soon thereafter, while walking one day, he beheld Jibril seated upon a throne between heaven and earth, followed by the revelation of the opening verses of Surah Al-Muddathir: 'O you who covers himself, arise and warn!' The dawn of Islam had officially broken upon the world.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_012_01",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab Bad' al-Wahy, Hadith 3; Kitab Tafsir al-Qur'an, Hadith 4953",
+      "notes": "Authentic foundational narration of the first revelation, Khadijah's reassurance, and Waraqah ibn Nawfal."
+    },
+    {
+      "id": "ref_012_02",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
+      "source": "Kitab al-Iman, Chapter on the Beginning of Revelation, Hadith 160",
+      "notes": "Authentic narration corroborating the details of Cave Hira, the first revelation, and Waraqah's testimony."
+    },
+    {
+      "id": "ref_012_03",
+      "title": "The Holy Quran",
+      "author": "Surah Al-Alaq (96:1–5) and Surah Al-Muddathir (74:1–5)",
+      "source": "Preserved Quranic text",
+      "notes": "The earliest revealed passages of the Holy Quran marking the inception of prophethood."
+    },
+    {
+      "id": "ref_012_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "This is an editorial status notice, not a historical source. The chapter is a narrative draft compiled from the classical works listed above and has not yet been independently reviewed by qualified scholars."
+    }
+  ]
+}
