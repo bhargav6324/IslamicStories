@@ -6,7 +6,7 @@
   "title": "The Year of Sorrow",
   "subtitle": "The Loss of Abu Talib and Khadijah, and the Trial of Makkan Hostility",
   "summary": "The physical exhaustion following the boycott, the passing of Abu Talib, the heartbreaking death of Khadijah رضي الله عنها, the deep personal grief of the Prophet ﷺ, the collapse of clan protection, and the alarming escalation of direct persecution in Makkah.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 5,
   "coverImageName": "SeerahChapter023Cover",
   "isPremium": true,
   "sections": [
@@ -49,7 +49,7 @@
     {
       "id": "sec_023_07",
       "type": "paragraph",
-      "text": "However, Abu Jahl and Abdullah ibn Abi Umayyah sat nearby, watching intently. Sensing the moment, they intervened aggressively to play on the dying chief's aristocratic pride: 'Will you turn away from the ancestral religion of Abd al-Muttalib, O Abu Talib?' They continued pressing him until Abu Talib uttered his final words, choosing to die upon the tradition of his forefathers out of dread that Quraysh would brand his conversion an act of cowardice at the door of death. Heartbroken, the Prophet ﷺ mourned his beloved guardian with profound sorrow.",
+      "text": "Abu Jahl and Abdullah ibn Abi Umayyah were present. They kept saying, 'Will you turn away from the religion of Abd al-Muttalib?' until Abu Talib's last word was that he remained upon the religion of Abd al-Muttalib. The report does not give him a motive of fearing to be called a coward. The Prophet then said that he would continue to ask forgiveness for him until he was forbidden to do so.",
       "imageName": null
     },
     {
@@ -73,13 +73,13 @@
     {
       "id": "sec_023_11",
       "type": "quote",
-      "text": "إِنِّي قَدْ رُزِقْتُ حُبَّهَا\n'Indeed, I was nourished and gifted with her love.' — Prophet Muhammad ﷺ concerning Khadijah (Sahih Muslim)",
+      "text": "إِنِّي قَدْ رُزِقْتُ حُبَّهَا\n'Indeed, I was nourished and gifted with her love.' — Prophet Muhammad ﷺ concerning Khadijah (Sahih Muslim 2435b)",
       "imageName": null
     },
     {
       "id": "sec_023_12",
       "type": "paragraph",
-      "text": "Her unique spiritual station was immortalized in authentic Hadith. Imam al-Bukhari records that the Angel Jibril once descended to the Prophet ﷺ and said: 'O Messenger of God, here is Khadijah approaching with a vessel of food or drink. When she arrives, convey to her peace from her Lord and from me, and give her the glad tidings of a palace of pearl in Paradise, wherein there is neither clamor nor toil.' Her passing left a void in his heart that no earthly companion could fill.",
+      "text": "A separate report, in Sahih al-Bukhari and in Sahih Muslim 2432, says that Jibril came to the Prophet and told him that Khadijah was approaching with a vessel of food or drink. He was to convey to her peace from her Lord and from Jibril, and to give her the glad tidings of a house of reed in Paradise in which there is neither noise nor toil. That is the wording used in the earlier chapter on Khadijah. It is not the report in which Aishah says, 'I was given her love.'",
       "imageName": null
     },
     {
@@ -119,14 +119,14 @@
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab Manaqib al-Ansar, Bab Wafat Abi Talib (Hadith 3884) & Bab Tazwij al-Nabi Khadijah (Hadith 3820)",
-      "notes": "Authentic accounts of Abu Talib's final moments and Jibril's greeting of peace to Khadijah."
+      "notes": "Abu Talib's deathbed word that he remained on the religion of Abd al-Muttalib (3884), and Jibril's greeting with a house of reed (3820). Muslim 2432 is that greeting, not the sentence about her love."
     },
     {
       "id": "ref_023_02",
       "title": "Sahih Muslim",
       "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
-      "source": "Kitab Fada'il al-Sahabah, Bab Fada'il Khadijah Umm al-Mu'minin, Hadith 2432",
-      "notes": "Authentic Hadith preserving the Prophet's profound veneration and everlasting love for Khadijah."
+      "source": "Kitab Fada'il al-Sahabah, Bab Fada'il Khadijah, Hadith 2435b",
+      "notes": "Aishah's report: the Prophet was given Khadijah's love. This is not Muslim 2432."
     },
     {
       "id": "ref_023_03",

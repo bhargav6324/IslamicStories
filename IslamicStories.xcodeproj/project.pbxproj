@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		07D471E455B891AF76ABD1F9 /* IslamicStoriesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D86A9CB13209413EB83017 /* IslamicStoriesApp.swift */; };
+		0EDD47E52BD8FB062EB86A16 /* SubscriptionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41E627F81BFC6F460AFFB9B /* SubscriptionManager.swift */; };
 		16AD1E85702F2BD150CC77D1 /* CollectionCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB26F8AE7F16FC4F4B2D1587 /* CollectionCard.swift */; };
 		182D012A496E6489A03F2454 /* TabBarManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */; };
 		183D541112A70F81106A62EE /* LanguageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D097853DF0E247F021A277D5 /* LanguageManager.swift */; };
@@ -19,6 +20,7 @@
 		2C1EC24929E48D9D6D4C0CD7 /* SpeechNarrationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7636FDF9FA1542BABE538AF8 /* SpeechNarrationService.swift */; };
 		30155F05AB8BB3CC342D4992 /* SpeechNarrationServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */; };
 		31A5CE83EDB4A2F9324622A1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15603AE86B23DE028DA3AA3C /* HomeView.swift */; };
+		4661195F3321388BA6C0F72F /* SubscriptionManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CFE31E7525A0104DA1CF2 /* SubscriptionManagerTests.swift */; };
 		48170D1353AED1119F51FE79 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFE677DB1F6DF0BA15C22 /* WelcomeView.swift */; };
 		4E80D09F396F200F4D1E2660 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD493B48D81C81D9BD1880B0 /* LibraryView.swift */; };
 		55CC76878E04913AFFE6D289 /* ReadingProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C5FAD500525FBA109041AB /* ReadingProgressBar.swift */; };
@@ -32,15 +34,19 @@
 		8FC3F842A6FD11390F777DB9 /* ReadingProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563654DAEBDBA4A8175FC4E8 /* ReadingProgress.swift */; };
 		911AC2B2EDC694C5A398F3EA /* Content in Resources */ = {isa = PBXBuildFile; fileRef = CFE949BC4689D42542412FCE /* Content */; };
 		97CD56405B3E745F6CABEAD9 /* SeerahContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */; };
+		A571483EA25D62E8C854D7B5 /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51DDECF089F8EE3DE61EB1F2 /* PaywallView.swift */; };
+		B4D2C26FCAF1370014B16F61 /* Subscriptions.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 33AC4D0CC810503A05F3979F /* Subscriptions.storekit */; };
 		C255DA50920E76D5BAB2E0E8 /* SeerahCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C47D86BC124ACD7B661BD9C /* SeerahCollectionView.swift */; };
 		CAF39A8373D7C0C4DEB2D521 /* IslamicPatternView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEE1A11A97862D4321A2D14 /* IslamicPatternView.swift */; };
 		D91AEB927FD76520220BC550 /* BookmarksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67672CAD0B89630540D36E13 /* BookmarksView.swift */; };
 		DE9712DADBFE748505EE0738 /* StorySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A84B81146F1E36BE8A0DFD /* StorySection.swift */; };
 		DEA143330FCFE7A3769F72CA /* ChapterReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF4A89C482329FC1F59406FC /* ChapterReaderView.swift */; };
+		EA1E0BC903B82EC2C20BE2CC /* AppLegalConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A00C1236EDDBCA00F2F1E0 /* AppLegalConfig.swift */; };
 		F12CED7A0C298E2B4D7F1AEB /* AppStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B4ED30C65150B35431D8B9 /* AppStrings.swift */; };
 		F1F7C7D134BC0D99541E2330 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240D497EC7D365F5191E8645 /* AppColors.swift */; };
 		F41BFA1A53042A7504948C92 /* ReadingProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58380D492A1744F4E46991F /* ReadingProgressStore.swift */; };
 		FAAA7032591058E6F47BC8BA /* ContentRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6B82CF169626BE209EC0F5 /* ContentRepository.swift */; };
+		FE3D970F74522B45CED7F09E /* SubscriptionLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C0C68731A07CE83EA363C5 /* SubscriptionLoadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +63,7 @@
 		01A985CFC35B5FD247AFCA8A /* AppTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTypography.swift; sourceTree = "<group>"; };
 		01C5FAD500525FBA109041AB /* ReadingProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgressBar.swift; sourceTree = "<group>"; };
 		0218F4358CECA6E7702E635A /* ReaderSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderSettingsView.swift; sourceTree = "<group>"; };
+		069CFE31E7525A0104DA1CF2 /* SubscriptionManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionManagerTests.swift; sourceTree = "<group>"; };
 		0756149A66CB0CB08F792E03 /* StoryChapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryChapter.swift; sourceTree = "<group>"; };
 		0C47D86BC124ACD7B661BD9C /* SeerahCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeerahCollectionView.swift; sourceTree = "<group>"; };
 		12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechNarrationServiceTests.swift; sourceTree = "<group>"; };
@@ -66,11 +73,13 @@
 		22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarManager.swift; sourceTree = "<group>"; };
 		240D497EC7D365F5191E8645 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
 		2C980684242A952EEE3C1683 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		33AC4D0CC810503A05F3979F /* Subscriptions.storekit */ = {isa = PBXFileReference; path = Subscriptions.storekit; sourceTree = "<group>"; };
 		36D86A9CB13209413EB83017 /* IslamicStoriesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslamicStoriesApp.swift; sourceTree = "<group>"; };
 		37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeerahContentTests.swift; sourceTree = "<group>"; };
 		3E4D3388B37522B39837C0B7 /* AudioPlayerBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerBar.swift; sourceTree = "<group>"; };
 		4B15F2B57C93F2727DB10394 /* StoryReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryReference.swift; sourceTree = "<group>"; };
 		4EED2A3ECD58F562B419D367 /* StoryCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCollection.swift; sourceTree = "<group>"; };
+		51DDECF089F8EE3DE61EB1F2 /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallView.swift; sourceTree = "<group>"; };
 		563654DAEBDBA4A8175FC4E8 /* ReadingProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgress.swift; sourceTree = "<group>"; };
 		5C9100A15AD6A142A5FA19F0 /* IslamicStories.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = IslamicStories.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67672CAD0B89630540D36E13 /* BookmarksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksView.swift; sourceTree = "<group>"; };
@@ -83,7 +92,10 @@
 		A58380D492A1744F4E46991F /* ReadingProgressStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingProgressStore.swift; sourceTree = "<group>"; };
 		AB26F8AE7F16FC4F4B2D1587 /* CollectionCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionCard.swift; sourceTree = "<group>"; };
 		AD85842D3640B550F31BED49 /* FloatingBottomNavBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingBottomNavBar.swift; sourceTree = "<group>"; };
+		B41E627F81BFC6F460AFFB9B /* SubscriptionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionManager.swift; sourceTree = "<group>"; };
+		B4A00C1236EDDBCA00F2F1E0 /* AppLegalConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLegalConfig.swift; sourceTree = "<group>"; };
 		BEF88448D4073E23F8F353BB /* IslamicStoriesTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = IslamicStoriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2C0C68731A07CE83EA363C5 /* SubscriptionLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionLoadingView.swift; sourceTree = "<group>"; };
 		C66AA2E7F2821C517F28A483 /* AppSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSpacing.swift; sourceTree = "<group>"; };
 		CD493B48D81C81D9BD1880B0 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 		CFE949BC4689D42542412FCE /* Content */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Content; path = IslamicStories/Resources/Content; sourceTree = SOURCE_ROOT; };
@@ -137,6 +149,7 @@
 				A2CFF693D455800C463F707D /* Home */,
 				996A028D4FB3336D9277BF57 /* Library */,
 				24053F95288B15DA3EECA86D /* Onboarding */,
+				AB03B6D0DB4991F95F7B3E36 /* Paywall */,
 				0C73F195A19D39837966F097 /* Reader */,
 				8C8096DF8B5F05863B44DC96 /* Settings */,
 			);
@@ -186,6 +199,7 @@
 			children = (
 				37394B35E94BF84806B3E5B7 /* SeerahContentTests.swift */,
 				12F50FEEB96B698D0C8C0700 /* SpeechNarrationServiceTests.swift */,
+				069CFE31E7525A0104DA1CF2 /* SubscriptionManagerTests.swift */,
 			);
 			path = IslamicStoriesTests;
 			sourceTree = "<group>";
@@ -193,10 +207,12 @@
 		87F25EBA0FCC79F732638629 /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				B4A00C1236EDDBCA00F2F1E0 /* AppLegalConfig.swift */,
 				19B4ED30C65150B35431D8B9 /* AppStrings.swift */,
 				6A6B82CF169626BE209EC0F5 /* ContentRepository.swift */,
 				D097853DF0E247F021A277D5 /* LanguageManager.swift */,
 				7636FDF9FA1542BABE538AF8 /* SpeechNarrationService.swift */,
+				B41E627F81BFC6F460AFFB9B /* SubscriptionManager.swift */,
 				22C4D2DCD9F54BA552A08D18 /* TabBarManager.swift */,
 			);
 			path = Services;
@@ -230,6 +246,7 @@
 			isa = PBXGroup;
 			children = (
 				2C980684242A952EEE3C1683 /* Assets.xcassets */,
+				33AC4D0CC810503A05F3979F /* Subscriptions.storekit */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -240,6 +257,15 @@
 				15603AE86B23DE028DA3AA3C /* HomeView.swift */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		AB03B6D0DB4991F95F7B3E36 /* Paywall */ = {
+			isa = PBXGroup;
+			children = (
+				51DDECF089F8EE3DE61EB1F2 /* PaywallView.swift */,
+				C2C0C68731A07CE83EA363C5 /* SubscriptionLoadingView.swift */,
+			);
+			path = Paywall;
 			sourceTree = "<group>";
 		};
 		B3DBEEE0DBE3B4F0AF1D2417 /* IslamicStories */ = {
@@ -366,6 +392,7 @@
 			files = (
 				1AA9431BD98A203FAB938ADE /* Assets.xcassets in Resources */,
 				911AC2B2EDC694C5A398F3EA /* Content in Resources */,
+				B4D2C26FCAF1370014B16F61 /* Subscriptions.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,6 +404,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1F7C7D134BC0D99541E2330 /* AppColors.swift in Sources */,
+				EA1E0BC903B82EC2C20BE2CC /* AppLegalConfig.swift in Sources */,
 				27E5DC6EA75BE52C02786905 /* AppSpacing.swift in Sources */,
 				F12CED7A0C298E2B4D7F1AEB /* AppStrings.swift in Sources */,
 				67B3C2D10D98071BCF6722A0 /* AppTypography.swift in Sources */,
@@ -393,6 +421,7 @@
 				183D541112A70F81106A62EE /* LanguageManager.swift in Sources */,
 				85E71F021191A82B3BDE38BE /* LanguageSelectionView.swift in Sources */,
 				4E80D09F396F200F4D1E2660 /* LibraryView.swift in Sources */,
+				A571483EA25D62E8C854D7B5 /* PaywallView.swift in Sources */,
 				1B5FCAA4E9B1C0B116595E8E /* ReaderSettingsView.swift in Sources */,
 				8FC3F842A6FD11390F777DB9 /* ReadingProgress.swift in Sources */,
 				55CC76878E04913AFFE6D289 /* ReadingProgressBar.swift in Sources */,
@@ -404,6 +433,8 @@
 				6522A8A8528435817FEC690E /* StoryCollection.swift in Sources */,
 				7206ECDE57A67F70A3A01A00 /* StoryReference.swift in Sources */,
 				DE9712DADBFE748505EE0738 /* StorySection.swift in Sources */,
+				FE3D970F74522B45CED7F09E /* SubscriptionLoadingView.swift in Sources */,
+				0EDD47E52BD8FB062EB86A16 /* SubscriptionManager.swift in Sources */,
 				182D012A496E6489A03F2454 /* TabBarManager.swift in Sources */,
 				48170D1353AED1119F51FE79 /* WelcomeView.swift in Sources */,
 			);
@@ -415,6 +446,7 @@
 			files = (
 				97CD56405B3E745F6CABEAD9 /* SeerahContentTests.swift in Sources */,
 				30155F05AB8BB3CC342D4992 /* SpeechNarrationServiceTests.swift in Sources */,
+				4661195F3321388BA6C0F72F /* SubscriptionManagerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

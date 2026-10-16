@@ -5,6 +5,7 @@ import SwiftData
 struct IslamicStoriesApp: App {
     @AppStorage("hasCompletedOnboarding") private var hasCompletedOnboarding: Bool = false
     @State private var languageManager = LanguageManager.shared
+    @State private var subscriptionManager = SubscriptionManager.shared
     
     // Shared SwiftData model container
     let sharedModelContainer: ModelContainer = {
@@ -25,7 +26,14 @@ struct IslamicStoriesApp: App {
                 if !hasCompletedOnboarding {
                     OnboardingContainerView()
                 } else {
-                    MainTabView()
+                    switch subscriptionManager.state {
+                    case .loading:
+                        SubscriptionLoadingView()
+                    case .subscribed:
+                        MainTabView()
+                    case .notSubscribed, .purchasePending, .error:
+                        PaywallView()
+                    }
                 }
             }
             .environment(\.layoutDirection, languageManager.layoutDirection)

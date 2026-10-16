@@ -6,7 +6,7 @@
   "title": "After the Victory",
   "subtitle": "The Humaneness of Prisoners, the Ransom of Literacy, and the Shock in Makkah",
   "summary": "The dignified burial of the fallen, the Prophet addressing the fallen chieftains in the well of Badr, unprecedented humane treatment of seventy prisoners of war, the consultation on ransom, teaching literacy to Madinan children as a path to freedom, and the grief and vows of revenge in Makkah.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 5,
   "coverImageName": "DesertCaravan",
   "isPremium": true,
   "sections": [
@@ -19,13 +19,13 @@
     {
       "id": "sec_037_02",
       "type": "paragraph",
-      "text": "When the dust settled over the valley of Badr, the full magnitude of the transformation became evident. Fourteen Muslim martyrs—six from the Muhajirun and eight from the Ansar—were lovingly laid to rest in honored graves on the battlefield. The bodies of the slain Makkan aristocracy, including Abu Jahl, Utbah, and Umayyah, were interred in an old, dry well (Qalib) to prevent desecration and disease.",
+      "text": "Fourteen Muslims were killed, six of the Muhajirun and eight of the Ansar, in the count the sirah usually gives. Abu Talha, in Sahih al-Bukhari 3976, as Anas reported it from him, says the Prophet ordered that twenty-four leaders of Quraysh be thrown into a dry, foul well of Badr. The hadith does not give a motive of sanitation.",
       "imageName": null
     },
     {
       "id": "sec_037_03",
       "type": "paragraph",
-      "text": "Before the army departed on the third day, the Prophet Muhammad ﷺ stood at the edge of the well and called the fallen persecutors by name: 'O Utbah ibn Rabi'ah! O Shaybah ibn Rabi'ah! O Umayyah ibn Khalaf! O Abu Jahl ibn Hisham! Have you found what your Lord promised you to be true? For I have found what my Lord promised me to be true.' When Umar ibn al-Khattab asked in wonder: 'O Messenger of God, do you speak to lifeless bodies?' the Prophet replied: 'By He in whose hand is the soul of Muhammad, you do not hear what I say any better than they do, but they are incapable of replying.'",
+      "text": "On the third day he halted at the lip of the well and called them by their names and their fathers' names. The wording Bukhari preserves is: 'O so-and-so, son of so-and-so, and O so-and-so, son of so-and-so, would it have pleased you to have obeyed God and His Messenger? We have found what our Lord promised us to be true. Have you found what your Lord promised you to be true?' Umar said, 'O Messenger of God, you are speaking to bodies that have no souls.' He replied, 'By the One in whose hand is the soul of Muhammad, you do not hear what I say better than they do.' The narrator Qatada added that God gave them hearing so that they might be rebuked. That sentence is Qatada's, not the Prophet's. The report is Abu Talha's, not Ibn Umar's, and it is not Bukhari 4043, which belongs to Uhud.",
       "imageName": null
     },
     {
@@ -61,13 +61,25 @@
     {
       "id": "sec_037_09",
       "type": "paragraph",
-      "text": "Upon reaching Madinah, the Prophet held a council of consultation regarding the fate of the seventy captives. Umar ibn al-Khattab advocated stern justice, arguing that these were the unrepentant leaders of tyranny who had tortured and exiled the believers, proposing that their own kin execute them. Abu Bakr al-Siddiq, conversely, advocated mercy and reconciliation, saying: 'O Messenger of God, they are our cousins, kinsmen, and clan. I suggest that you accept ransom from them, which will strengthen us financially and perhaps God will guide them to Islam.'",
+      "text": "Muslim 1763, still Umar's report, says the Prophet asked Abu Bakr and Umar what they thought of the captives. Abu Bakr said they were kin, and that a ransom would be a strength, and that God might guide them. Umar said he did not hold that view: they should be killed, and he named Aqil for Ali and a relative of his own. The Prophet inclined to Abu Bakr and not to Umar.",
       "imageName": null
     },
     {
       "id": "sec_037_10",
       "type": "paragraph",
-      "text": "The Prophet favored Abu Bakr's compassionate view, establishing ransoms between one thousand and four thousand dirhams according to each captive's wealth. For those who were destitute yet literate, the Prophet established a revolutionary condition: each literate prisoner could earn his complete freedom by teaching ten children of Madinah to read and write. Among the Ansari youths educated through this brilliant initiative was Zayd ibn Thabit, who would later become the principal scribe of the Quran.",
+      "text": "The next day Umar found the Prophet and Abu Bakr in tears. The Prophet said he wept because of what had been shown him of a punishment for his companions, close as a nearby tree, on account of their taking the ransom. The sums of one thousand to four thousand dirhams, and the condition that a captive who could write might teach ten children of Madinah, are the sirah, not this hadith. Later writers name Zayd ibn Thabit among the children taught that way. That, too, is sirah.",
+      "imageName": null
+    },
+    {
+      "id": "sec_037_16",
+      "type": "quote",
+      "text": "مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ ۚ تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ\n'It is not for a prophet to have captives until he has thoroughly subdued in the land. You desire the goods of this world, while God desires the Hereafter. And God is Exalted in Might, Wise.' (Surah al-Anfal 8:67)",
+      "imageName": null
+    },
+    {
+      "id": "sec_037_17",
+      "type": "paragraph",
+      "text": "Muslim 1763 joins this verse to that morning. The next verse, 8:68, says that were it not for a prior decree from God, a great punishment would have touched them for what they took. Verse 8:69 then says, 'So eat of what you have taken in spoils, lawful and good,' and the hadith says God made the spoils lawful for them. The aftermath was not only the kindness shown to the captives. It included this rebuke, and then the permission.",
       "imageName": null
     },
     {
@@ -106,15 +118,15 @@
       "id": "ref_037_01",
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
-      "source": "Kitab al-Maghazi, Bab Qatl Abi Jahl wa Qalib Badr, Hadith 3976 & Hadith 4043",
-      "notes": "Authentic Hadith of Ibn Umar documenting the Prophet addressing the deceased chieftains in the well of Badr."
+      "source": "Kitab al-Maghazi, Bab Qatl Abi Jahl, Hadith 3976",
+      "notes": "Abu Talha, through Anas: twenty-four leaders of Quraysh in a dry well of Badr, and the address on the third day. Not Ibn Umar, and not Bukhari 4043, which is Uhud."
     },
     {
       "id": "ref_037_02",
       "title": "Sahih Muslim",
       "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
       "source": "Kitab al-Jihad wa al-Siyar, Bab Usara Badr wa al-Fida', Hadith 1763",
-      "notes": "Authentic documentation of the consultation between the Prophet, Abu Bakr, and Umar regarding the captives."
+      "notes": "Muslim 1763: Abu Bakr's ransom, Umar's refusal, the tears the next day, and the link to 8:67 through the permission to eat of the spoils."
     },
     {
       "id": "ref_037_03",

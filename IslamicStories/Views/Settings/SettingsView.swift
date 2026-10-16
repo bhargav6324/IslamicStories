@@ -7,8 +7,12 @@ public struct SettingsView: View {
     @AppStorage("readerTheme") private var selectedThemeRaw: String = ReadingTheme.parchment.rawValue
     
     @State private var narrationService = SpeechNarrationService.shared
+    @State private var subscriptionManager = SubscriptionManager.shared
     @State private var showingAboutSheet: Bool = false
     @State private var showingSourcesSheet: Bool = false
+    @State private var showingTermsSheet: Bool = false
+    @State private var showingPrivacySheet: Bool = false
+    @State private var showingManageSubscriptions: Bool = false
     
     public init() {}
     
@@ -51,6 +55,44 @@ public struct SettingsView: View {
                                     .foregroundColor(AppColors.emeraldGreen)
                                     .fontWeight(.bold)
                             }
+                        }
+                    }
+                }
+                .listRowBackground(AppColors.cardBackground)
+                
+                // Section: Subscription
+                Section(header: Text(AppStrings.tr(.subscriptionHeader, lang: languageManager.selectedLanguage)).foregroundColor(AppColors.antiqueGold)) {
+                    HStack {
+                        Text(AppStrings.tr(.activePlanLabel, lang: languageManager.selectedLanguage))
+                            .foregroundColor(AppColors.charcoal)
+                        Spacer()
+                        Text(subscriptionManager.activePlanTitle(isArabic: isArabic) ?? AppStrings.tr(.subscriptionStatusActive, lang: languageManager.selectedLanguage))
+                            .font(AppTypography.footnote())
+                            .foregroundColor(AppColors.emeraldGreen)
+                            .fontWeight(.semibold)
+                    }
+                    
+                    if let dateFormatted = subscriptionManager.renewalOrExpirationDescription(locale: languageManager.locale) {
+                        HStack {
+                            Text(AppStrings.tr(.subscriptionStatusLabel, lang: languageManager.selectedLanguage))
+                                .foregroundColor(AppColors.charcoal)
+                            Spacer()
+                            Text(AppStrings.tr(.renewsOnDate(dateFormatted), lang: languageManager.selectedLanguage))
+                                .font(AppTypography.caption())
+                                .foregroundColor(AppColors.secondaryText)
+                        }
+                    }
+                    
+                    Button(action: {
+                        showingManageSubscriptions = true
+                    }) {
+                        HStack {
+                            Label(AppStrings.tr(.manageSubscription, lang: languageManager.selectedLanguage), systemImage: "creditcard")
+                                .foregroundColor(AppColors.charcoal)
+                            Spacer()
+                            Image(systemName: "chevron.forward")
+                                .font(.system(size: 13))
+                                .foregroundColor(AppColors.secondaryText)
                         }
                     }
                 }
@@ -140,6 +182,32 @@ public struct SettingsView: View {
                         }
                     }
                     
+                    Button(action: {
+                        showingTermsSheet = true
+                    }) {
+                        HStack {
+                            Label(AppStrings.tr(.termsOfUse, lang: languageManager.selectedLanguage), systemImage: "doc.text")
+                                .foregroundColor(AppColors.charcoal)
+                            Spacer()
+                            Image(systemName: "chevron.forward")
+                                .font(.system(size: 13))
+                                .foregroundColor(AppColors.secondaryText)
+                        }
+                    }
+                    
+                    Button(action: {
+                        showingPrivacySheet = true
+                    }) {
+                        HStack {
+                            Label(AppStrings.tr(.privacyPolicy, lang: languageManager.selectedLanguage), systemImage: "hand.raised")
+                                .foregroundColor(AppColors.charcoal)
+                            Spacer()
+                            Image(systemName: "chevron.forward")
+                                .font(.system(size: 13))
+                                .foregroundColor(AppColors.secondaryText)
+                        }
+                    }
+                    
                     HStack {
                         Label(AppStrings.tr(.offlineCapability, lang: languageManager.selectedLanguage), systemImage: "wifi.slash")
                             .foregroundColor(AppColors.charcoal)
@@ -175,11 +243,18 @@ public struct SettingsView: View {
             .safeAreaPadding(.bottom, 72)
         }
         .navigationTitle(AppStrings.tr(.settingsTitle, lang: languageManager.selectedLanguage))
+        .manageSubscriptionsSheet(isPresented: $showingManageSubscriptions)
         .sheet(isPresented: $showingAboutSheet) {
             AboutModalView(isArabic: isArabic)
         }
         .sheet(isPresented: $showingSourcesSheet) {
             SourcesModalView(isArabic: isArabic)
+        }
+        .sheet(isPresented: $showingTermsSheet) {
+            LegalNoticeModalView(noticeType: .terms, isArabic: isArabic)
+        }
+        .sheet(isPresented: $showingPrivacySheet) {
+            LegalNoticeModalView(noticeType: .privacy, isArabic: isArabic)
         }
     }
     

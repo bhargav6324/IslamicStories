@@ -68,6 +68,49 @@ public enum AppStrings {
         case libraryTitle
         case librarySubtitle
         
+        // Subscription & Hard Paywall
+        case paywallHeadline
+        case paywallSubtitle
+        case paywallFeature1
+        case paywallFeature2
+        case paywallFeature3
+        case paywallFeature4
+        case paywallFeature5
+        case annualPlanTitle
+        case monthlyPlanTitle
+        case savePercent(Int)
+        case recommended
+        case perYear
+        case perMonth
+        case approxMonthlyRate(String)
+        case continueWithAnnual
+        case continueWithMonthly
+        case continueAction
+        case subscriptionDisclosure
+        case restorePurchases
+        case termsOfUse
+        case privacyPolicy
+        case subscriptionChecking
+        case purchasingInProgress
+        case restoringInProgress
+        case restoreSuccess
+        case restoreNotFound
+        case purchaseCancelled
+        case purchasePending
+        case purchaseError
+        case unverifiedTransaction
+        case manageSubscription
+        case subscriptionHeader
+        case activePlanLabel
+        case subscriptionStatusLabel
+        case subscriptionStatusActive
+        case renewsOnDate(String)
+        case expiresOnDate(String)
+        case productLoadingError
+        case retryAction
+        case loadingPrices
+        case subscriptionExpired
+
         var english: String {
             switch self {
             case .tabHome: return "Home"
@@ -117,6 +160,49 @@ public enum AppStrings {
             case .noBookmarksDescription: return "Tap the bookmark icon while reading any chapter to save it here for later."
             case .libraryTitle: return "Library"
             case .librarySubtitle: return "Curated collections and verified historical biographies."
+            
+            // Subscription & Hard Paywall (English)
+            case .paywallHeadline: return "Unlock Every Story"
+            case .paywallSubtitle: return "Explore the complete Seerah of Prophet Muhammad ﷺ through immersive storytelling."
+            case .paywallFeature1: return "Access to all 80 Seerah chapters"
+            case .paywallFeature2: return "Complete English and Arabic stories"
+            case .paywallFeature3: return "Immersive audio narration"
+            case .paywallFeature4: return "Bookmarks and reading progress"
+            case .paywallFeature5: return "Full offline reading support"
+            case .annualPlanTitle: return "Annual"
+            case .monthlyPlanTitle: return "Monthly"
+            case .savePercent(let p): return "Save \(p)%"
+            case .recommended: return "Recommended"
+            case .perYear: return "/ year"
+            case .perMonth: return "/ month"
+            case .approxMonthlyRate(let r): return "Approximately \(r)/month"
+            case .continueWithAnnual: return "Continue with Annual"
+            case .continueWithMonthly: return "Continue with Monthly"
+            case .continueAction: return "Continue"
+            case .subscriptionDisclosure: return "Payment will be charged to your Apple Account. Your subscription automatically renews unless canceled at least 24 hours before the end of the current billing cycle. You can manage or cancel your subscription anytime in your Apple Account settings."
+            case .restorePurchases: return "Restore Purchases"
+            case .termsOfUse: return "Terms of Use"
+            case .privacyPolicy: return "Privacy Policy"
+            case .subscriptionChecking: return "Verifying subscription status..."
+            case .purchasingInProgress: return "Contacting App Store..."
+            case .restoringInProgress: return "Restoring purchases from Apple..."
+            case .restoreSuccess: return "Your subscription has been successfully restored."
+            case .restoreNotFound: return "No active subscription found for this Apple Account."
+            case .purchaseCancelled: return "Purchase was cancelled."
+            case .purchasePending: return "Purchase is pending approval. Your access will activate once approved."
+            case .purchaseError: return "Unable to complete purchase. Please try again."
+            case .unverifiedTransaction: return "Transaction could not be verified by Apple."
+            case .manageSubscription: return "Manage Subscription"
+            case .subscriptionHeader: return "Subscription"
+            case .activePlanLabel: return "Active Plan"
+            case .subscriptionStatusLabel: return "Status"
+            case .subscriptionStatusActive: return "Active Subscriber"
+            case .renewsOnDate(let d): return "Renews on \(d)"
+            case .expiresOnDate(let d): return "Expires on \(d)"
+            case .productLoadingError: return "Unable to load subscription plans from the App Store. Please check your connection and tap Retry."
+            case .retryAction: return "Retry"
+            case .loadingPrices: return "Loading prices from Apple..."
+            case .subscriptionExpired: return "Your subscription has expired. Please choose a plan below to continue."
             }
         }
         
@@ -169,6 +255,49 @@ public enum AppStrings {
             case .noBookmarksDescription: return "أثناء قراءة أي فصل، اضغط على أيقونة الإشارة المرجعية لحفظه هنا."
             case .libraryTitle: return "المكتبة التاريخية"
             case .librarySubtitle: return "مجموعات القصص والسير الموثقة في تاريخ الإسلام."
+            
+            // Subscription & Hard Paywall (Arabic)
+            case .paywallHeadline: return "افتح جميع فصول السيرة"
+            case .paywallSubtitle: return "استكشف سيرة النبي محمد ﷺ الكاملة من خلال سرد تاريخي وأدبي غامر."
+            case .paywallFeature1: return "الوصول الكامل إلى جميع فصول السيرة الـ 80"
+            case .paywallFeature2: return "قصص وسير متكاملة باللغتين العربية والإنجليزية"
+            case .paywallFeature3: return "قراءة صوتية ناطقة لجميع الفقرات"
+            case .paywallFeature4: return "حفظ الإشارات المرجعية ومتابعة التقدم"
+            case .paywallFeature5: return "إمكانية القراءة دون اتصال بالإنترنت"
+            case .annualPlanTitle: return "سنوي"
+            case .monthlyPlanTitle: return "شهري"
+            case .savePercent(let p): return "وفر \(p)%"
+            case .recommended: return "الأكثر توفيراً"
+            case .perYear: return "/ سنوياً"
+            case .perMonth: return "/ شهرياً"
+            case .approxMonthlyRate(let r): return "\(r) شهرياً تقريباً"
+            case .continueWithAnnual: return "المتابعة مع الاشتراك السنوي"
+            case .continueWithMonthly: return "المتابعة مع الاشتراك الشهري"
+            case .continueAction: return "المتابعة"
+            case .subscriptionDisclosure: return "سيتم خصم الدفع من حساب Apple الخاص بك. يتجدد اشتراكك تلقائياً ما لم يتم إلغاؤه قبل 24 ساعة على الأقل من نهاية الفترة الحالية. يمكنك إدارة أو إلغاء اشتراكك في أي وقت من إعدادات حساب Apple الخاص بك."
+            case .restorePurchases: return "استعادة المشتريات"
+            case .termsOfUse: return "شروط الاستخدام"
+            case .privacyPolicy: return "سياسة الخصوصية"
+            case .subscriptionChecking: return "جاري التحقق من حالة الاشتراك..."
+            case .purchasingInProgress: return "جاري الاتصال بمتجر App Store..."
+            case .restoringInProgress: return "جاري استعادة المشتريات من Apple..."
+            case .restoreSuccess: return "تم استعادة اشتراكك بنجاح."
+            case .restoreNotFound: return "لم يتم العثور على اشتراك نشط لهذا الحساب."
+            case .purchaseCancelled: return "تم إلغاء عملية الشراء."
+            case .purchasePending: return "تم تعليق الشراء بانتظار الموافقة. سيتفعل وصولك فور اعتماد العملية."
+            case .purchaseError: return "تعذر إتمام عملية الشراء. يرجى المحاولة مرة أخرى."
+            case .unverifiedTransaction: return "تعذر التحقق من صحة العملية لدى Apple."
+            case .manageSubscription: return "إدارة الاشتراك"
+            case .subscriptionHeader: return "الاشتراك"
+            case .activePlanLabel: return "الخطة الحالية"
+            case .subscriptionStatusLabel: return "الحالة"
+            case .subscriptionStatusActive: return "مشترك نشط"
+            case .renewsOnDate(let d): return "يتجدد في \(d)"
+            case .expiresOnDate(let d): return "ينتهي في \(d)"
+            case .productLoadingError: return "تعذر تحميل خطط الاشتراك من App Store. يرجى التحقق من اتصالك والمحاولة مجدداً."
+            case .retryAction: return "إعادة المحاولة"
+            case .loadingPrices: return "جاري تحميل الأسعار من Apple..."
+            case .subscriptionExpired: return "انتهت فترة اشتراكك. يرجى اختيار خطة أدناه للمتابعة."
             }
         }
     }

@@ -6,7 +6,7 @@
   "title": "The Road to Uhud",
   "subtitle": "Quraysh's Vengeance, the War Council in Madinah, and the Treachery of Hypocrites",
   "summary": "Quraysh setting aside the entire caravan profits to fund a punitive war, assembling three thousand warriors under Abu Sufyan, Al-Abbas's secret warning to Madinah, the council of war where the Prophet respected the youth's consensus, the unbending resolve of wearing armor, the treachery of Abdullah ibn Ubayy, and encampment at the foot of Mount Uhud.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 5,
   "coverImageName": "MountHira",
   "isPremium": true,
   "sections": [
@@ -49,13 +49,13 @@
     {
       "id": "sec_038_07",
       "type": "paragraph",
-      "text": "The Prophet shared a vision he had witnessed in his sleep: 'I saw cows being slaughtered, and I saw a notch in the tip of my sword, and I saw that I thrust my hand into an impregnable coat of armor.' He interpreted the slaughtered cows as companions who would be martyred, the notch in his sword as an injury to a member of his household, and the armor as the fortified sanctuary of Madinah.",
+      "text": "Sahih al-Bukhari 4081, from Abu Musa, preserves a dream in the Prophet's words: he moved a sword and its blade broke, and that was the believers struck on the day of Uhud; he moved it again and it returned better than it had been, and that was the conquest God brought and the gathering of the believers; he also saw cows, and God is best, and they were the believers on the day of Uhud. The hadith explains the dream by Uhud's dead and by a later restoration. It does not say that a coat of armor meant remaining in Madinah.",
       "imageName": null
     },
     {
       "id": "sec_038_08",
       "type": "paragraph",
-      "text": "Based on this vision, the Prophet's personal strategic judgment—shared by senior companions and Abdullah ibn Ubayy ibn Salul—was to remain inside Madinah, defending the fortified stone compounds and narrow alleyways where cavalry would be useless and every citizen could rain stones from rooftops. However, a passionate majority of young companions, particularly those who had missed the glory of Badr, led by Hamzah ibn Abd al-Muttalib, ardently pleaded to march out: 'O Messenger of God, lead us out against our enemies, lest they think we are cowards!'",
+      "text": "The counsel to stay inside the city is a separate account in the sirah: the Prophet's own leaning, and the view of senior companions, including Abdullah ibn Ubayy, was to meet the army from the lanes and the roofs. Some sirah writers add a dream of armor and read the armor as Madinah. That reading is not Bukhari 4081, and it is not attached to it here. A number of the younger men, among them men who had missed Badr, and Hamzah with them in the sirah's telling, asked to march out so that Quraysh would not think them afraid.",
       "imageName": null
     },
     {
@@ -73,13 +73,13 @@
     {
       "id": "sec_038_11",
       "type": "paragraph",
-      "text": "The Prophet replied with unyielding firmness, establishing an immortal lesson in leadership and resolve:",
+      "text": "The Prophet answered:",
       "imageName": null
     },
     {
       "id": "sec_038_12",
       "type": "quote",
-      "text": "مَا يَنْبَغِي لِنَبِيٍّ إِذَا لَبِسَ لَأْمَتَهُ أَنْ يَضَعَهَا حَتَّى يَحْكُمَ اللَّهُ بَيْنَهُ وَبَيْنَ عَدُوِّهِ\n'It is not fitting for a prophet, once he has donned his armor, to take it off until God judges between him and his enemy.' (Musnad Ahmad & Sunan al-Darimi)",
+      "text": "مَا يَنْبَغِي لِنَبِيٍّ إِذَا لَبِسَ لَأْمَتَهُ أَنْ يَضَعَهَا حَتَّى يَحْكُمَ اللَّهُ بَيْنَهُ وَبَيْنَ عَدُوِّهِ\n'It is not fitting for a prophet, once he has donned his armor, to take it off until God judges between him and his enemy.' (a report transmitted in the sirah, and also attributed to Musnad Ahmad and Sunan al-Darimi, without a number cited here). It is not an interpretation of Bukhari 4081.",
       "imageName": null
     },
     {
@@ -125,8 +125,8 @@
       "id": "ref_038_02",
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
-      "source": "Kitab al-Maghazi, Bab Ghazwat Uhud, Hadith 4066",
-      "notes": "Authentic Hadith describing the Prophet's dream of the slaughtered cows and the notch in his sword."
+      "source": "Kitab al-Maghazi, Bab man qutila min al-Muslimin yawma Uhud, Hadith 4081",
+      "notes": "Abu Musa: the sword that broke and was restored, and the cows, explained as Uhud's dead and a later conquest. Not the armor, and not Bukhari 4066, which concerns Uthman's absences."
     },
     {
       "id": "ref_038_03",

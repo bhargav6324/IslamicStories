@@ -6,7 +6,7 @@
   "title": "Lessons from Uhud",
   "subtitle": "The Pursuit of Hamra' al-Asad, the Martyrs of Uhud, and the Quranic Crucible",
   "summary": "The courageous morning pursuit to Hamra' al-Asad displaying unbroken morale, the burial of seventy martyrs without washing in their blood-stained garments, the profound divine analysis in Surah Aal-Imran, the perils of disobedience and material temptation, separating truth from hypocrisy, and the moral maturation of the Madinan state.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 5,
   "coverImageName": "MountHira",
   "isPremium": true,
   "sections": [
@@ -25,7 +25,7 @@
     {
       "id": "sec_040_03",
       "type": "paragraph",
-      "text": "Despite deep sword gashes, bandaged limbs, and immense grief, every surviving warrior answered the call with unhesitating resolve. They marched eight miles south of Madinah to Hamra' al-Asad, encamping there for three days and lighting five hundred roaring campfires by night across the desert hills. Seeing this impressive demonstration of unbroken morale, Abu Sufyan and his confederates became terrified that a massive, enraged force was pursuing them, hastening their retreat back to Makkah. This magnificent fortitude is praised in Surah Aal-Imran:",
+      "text": "Those who had fought the day before went out again. The sirah names the halt Hamra al-Asad, a short march south of Madinah, and says they stayed about three days and lit fires so that their camp would be seen. The figure of five hundred fires is not kept. Abu Sufyan turned back toward Makkah. The Quran speaks of those who answered God and the Messenger after the wound had struck them:",
       "imageName": null
     },
     {
@@ -49,13 +49,13 @@
     {
       "id": "sec_040_07",
       "type": "paragraph",
-      "text": "Prior to their march, the Prophet had overseen the burial of the seventy Muslim martyrs who fell upon the field of Uhud—sixty-five from the Ansar and four from the Muhajirun, including his beloved uncle Hamzah and the noble Mus'ab ibn Umayr. The Prophet commanded that they be buried directly upon the battlefield without ritual washing (ghusl), wrapped in their blood-stained garments, testifying: 'I am a witness over these; no one is wounded in the cause of God except that he will be resurrected on the Day of Judgment with his wound bleeding—its color the color of blood, and its fragrance the fragrance of musk.'",
+      "text": "Before the march he saw to the burial of those killed at Uhud. Reports commonly give the number as about seventy. Lists of names differ, so this chapter does not fix a split of sixty-five Ansar and four Muhajirun. Hamzah and Mus'ab ibn Umayr were among the dead. Bukhari 1343 and 1347 say they were buried in the clothes they wore, without being washed, and that where two shared a grave the one who knew more of the Quran was placed first. The Prophet's words that he was a witness over them, and that a wound in God's cause is raised with the color of blood and the scent of musk, belong to that burial material.",
       "imageName": null
     },
     {
       "id": "sec_040_08",
       "type": "paragraph",
-      "text": "Two or three martyrs were placed in a single grave, with the Prophet placing the one who had memorized more of the Holy Quran closest to the Qiblah. When the Prophet stood over the body of Mus'ab ibn Umayr—whose short woolen cloak could not cover both his head and feet simultaneously, forcing them to cover his feet with fragrant sweet rush (idhkhir)—the Prophet wept, reflecting upon how this young nobleman had abandoned all aristocratic luxury in Makkah to die as a penniless champion of truth.",
+      "text": "The short cloak of Mus'ab, which would not cover both his head and his feet, and the idhkhir laid on his feet, are a sirah report. They are not in Bukhari 1343 or 1347, and they are not folded into those numbers.",
       "imageName": null
     },
     {
@@ -67,19 +67,19 @@
     {
       "id": "sec_040_10",
       "type": "paragraph",
-      "text": "The Holy Quran devoted over sixty verses in Surah Aal-Imran (verses 121 to 180) to a deep, transformative spiritual dissection of the events of Uhud. Unlike earthly rulers who conceal tactical failures with propaganda, the divine revelation addressed the causes of the reverse with unsparing moral clarity, converting physical setback into an eternal pedagogical academy for the community.",
+      "text": "Surah Al Imran 3:121 through 3:180 is sixty verses. The passage includes the Quran's address to Uhud and also wider counsel to the community. It is not accurate to say that every verse in that range is only about the battle, or that the range is longer than sixty verses.",
       "imageName": null
     },
     {
       "id": "sec_040_11",
       "type": "paragraph",
-      "text": "The Quran exposed the spiritual root of the failure: disobedience to the explicit command of the Prophet prompted by worldly temptation (hubb al-dunya). Verse 152 stated frankly: 'Among you are some who desire this world, and among you are some who desire the Hereafter.' By allowing their eyes to wander toward the captured baggage, the archers compromised the spiritual purity of their mission, proving that physical victory is an outcome of spiritual discipline rather than mere martial courage.",
+      "text": "The Quran exposed the spiritual root of the failure: disobedience to the explicit command of the Prophet prompted by worldly temptation (hubb al-dunya). Part of 3:152 says: 'Among you are some who desire this world, and among you are some who desire the Hereafter.' The verse is longer than that clause. By allowing their eyes to wander toward the captured baggage, the archers compromised the spiritual purity of their mission, proving that physical victory is an outcome of spiritual discipline rather than mere martial courage.",
       "imageName": null
     },
     {
       "id": "sec_040_12",
       "type": "quote",
-      "text": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ * إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ\n'Do not weaken and do not grieve, and you will be superior if you are [true] believers. If a wound touches you, there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people...' (Surah Aal-Imran 3:139–140)",
+      "text": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ * إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ …\n'Do not weaken and do not grieve, and you will be superior if you are [true] believers. If a wound touches you, there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people...' (Surah Al Imran 3:139 in full, and the opening of 3:140; the second verse continues)",
       "imageName": null
     },
     {
@@ -103,7 +103,7 @@
     {
       "id": "sec_040_16",
       "type": "quote",
-      "text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ اللَّهَ شَيْئًا\n'Muhammad is not but a messenger; [other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels? And he who turns back on his heels will never harm God at all.' (Surah Aal-Imran 3:144)",
+      "text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ اللَّهَ شَيْئًا …\n'Muhammad is not but a messenger; [other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels? And he who turns back on his heels will never harm God at all.' (part of Surah Al Imran 3:144; the verse continues, 'And God will reward the grateful')",
       "imageName": null
     },
     {
@@ -125,14 +125,14 @@
       "title": "The Holy Quran",
       "author": "Surah Aal-Imran (3:139–175)",
       "source": "Preserved Quranic text",
-      "notes": "Primary divine revelation dissecting the spiritual lessons, martyrdom, and the expedition of Hamra' al-Asad."
+      "notes": "3:172 on those who answered after the wound; 3:121–180 is a sixty-verse passage that includes Uhud and wider counsel, not Uhud alone."
     },
     {
       "id": "ref_040_02",
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab al-Jana'iz, Bab al-Dafn bi al-Thiyab wa Shuhada' Uhud, Hadith 1343 & Hadith 1347",
-      "notes": "Authentic Hadith of Jabir ibn Abdillah detailing the burial of the martyrs of Uhud without washing and the burial of Mus'ab."
+      "notes": "Bukhari 1343 and 1347: burial in their clothes, without washing, and the one who knew more Quran placed first. Mus'ab's cloak and the idhkhir are sirah, not these hadiths."
     },
     {
       "id": "ref_040_03",

@@ -52,7 +52,7 @@ public final class ContentRepository {
                     : "Journey through the life of the Prophet, from the world before his birth to the legacy that continues to inspire millions.",
                 coverImageName: "SeerahCover",
                 isComingSoon: false,
-                totalChapters: 40
+                totalChapters: 80
             ),
             StoryCollection(
                 id: "prophets",

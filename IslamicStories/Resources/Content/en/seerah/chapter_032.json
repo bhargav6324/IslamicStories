@@ -4,9 +4,9 @@
   "chapterNumber": 32,
   "languageCode": "en",
   "title": "The Charter of Madinah",
-  "subtitle": "The First Written Constitution, Religious Pluralism, and Civic Security",
-  "summary": "The multifaceted demography of Yathrib, the drafting of the historic document known as the Charter of Madinah (Al-Sahifah), establishing the unity of the community, safeguarding freedom of faith for Jewish clans, universal civic responsibility, and the supreme rule of justice.",
-  "estimatedReadingMinutes": 10,
+  "subtitle": "An early community agreement: security, faith, and the valley of Yathrib",
+  "summary": "The people living in Yathrib, and the document Ibn Ishaq and Abu Ubayd preserve as the sahifah: one community, help with blood-money, the faith of the Jewish clans who joined it, defense of the valley, and the referral of disputes to God and the Messenger.",
+  "estimatedReadingMinutes": 4,
   "coverImageName": "ArabianMarket",
   "isPremium": true,
   "sections": [
@@ -19,13 +19,13 @@
     {
       "id": "sec_032_02",
       "type": "paragraph",
-      "text": "Following the construction of the Mosque and the pact of brotherhood among the Muslims, the Prophet Muhammad ﷺ turned his attention toward the broader civic fabric of Madinah. The oasis city was far from homogeneous. In addition to the Muslim community (comprising the Muhajirun and the Ansar from Aws and Khazraj), Madinah was home to large Jewish tribes—including Banu Qaynuqa, Banu al-Nadir, and Banu Qurayzah, alongside numerous allied Jewish clans—as well as non-Muslim Arab pagans who had not yet embraced Islam.",
+      "text": "After the mosque and the pairings among the Muslims, the Prophet addressed the rest of Yathrib. The oasis held the Muhajirun, the Aws and the Khazraj, Jewish clans including groups tied to Banu Qaynuqa, Banu al-Nadir, and Banu Qurayzah, and Arab households that had not accepted Islam.",
       "imageName": null
     },
     {
       "id": "sec_032_03",
       "type": "paragraph",
-      "text": "In pre-Islamic Arabia, social order had rested solely on raw tribal kinship: an attack on a clansman demanded collective retaliation, regardless of right or wrong. Without a shared legal framework, the historical animosities of Yathrib threatened to erupt at any moment. Recognizing this vulnerability, the Prophet drafted an unprecedented legal and constitutional document preserved in classical historical literature as Kitab al-Madinah or Al-Sahifah (The Charter of Madinah).",
+      "text": "In pre-Islamic Arabia, social order had rested solely on raw tribal kinship: an attack on a clansman demanded collective retaliation, regardless of right or wrong. Without a shared legal framework, the historical animosities of Yathrib threatened to erupt at any moment. Recognizing this vulnerability, the Prophet set down an agreement that the early historians preserve as Kitab al-Madinah or al-Sahifah. It is that document, not a constitution in the later sense of the word.",
       "imageName": null
     },
     {
@@ -43,13 +43,13 @@
     {
       "id": "sec_032_06",
       "type": "paragraph",
-      "text": "Recorded by early historians such as Ibn Ishaq and Abu Ubayd in Kitab al-Amwal, the text opened with a clear declaration of civil identity: 'This is a document from Muhammad the Prophet between the believers and Muslims of Quraysh and Yathrib, and those who follow them, join them, and strive alongside them: They are one political community (Ummah wahidah) to the exclusion of all other people.'",
+      "text": "Ibn Ishaq and Abu Ubayd, in Kitab al-Amwal, preserve an opening in this sense: this is a document from Muhammad the Prophet, between the believers and Muslims of Quraysh and of Yathrib and whoever follows them, joins them, and strives with them. They are one ummah, apart from other people. The text calls them one ummah. It does not itself use the later vocabulary of a constitution or of citizenship.",
       "imageName": null
     },
     {
       "id": "sec_032_07",
       "type": "paragraph",
-      "text": "The document established revolutionary principles of governance, justice, and human rights that were centuries ahead of its time. First, it abolished collective tribal vengeance and established individual legal accountability: a wrongdoer could no longer hide behind his clan's prestige, and tribal solidarity was legally forbidden from protecting a murderer or criminal, even if he were a close kin.",
+      "text": "Among the clauses in that preserved text: the believers do not leave one of their number who is burdened by a debt of blood or ransom without helping him in fairness. A believer does not kill a believer in retaliation for a disbeliever, and does not help a disbeliever against a believer. The God-fearing among them stand together against whoever of them commits aggression or seeks injustice, sin, enmity, or corruption among the believers. Their hands are against him together, even if he is the son of one of them. That is a restriction, in the document, on shielding such a person. It is not a modern statute abolishing every form of collective responsibility, and this chapter does not call it that.",
       "imageName": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": "sec_032_09",
       "type": "paragraph",
-      "text": "A central section of the Charter regulated the status of the Jewish communities of Madinah, establishing an extraordinary framework of religious autonomy and civic equality. The text explicitly decreed:",
+      "text": "A section concerns Jewish clans who entered the document. The wording for the Jews of Banu Awf, as Ibn Hisham and Abu Ubayd give it, is:",
       "imageName": null
     },
     {
@@ -73,7 +73,7 @@
     {
       "id": "sec_032_11",
       "type": "paragraph",
-      "text": "The Charter extended this guarantee of freedom of conscience and religious practice to the Jewish clans of Banu al-Najjar, Banu al-Harith, Banu Sa'idah, Banu Jusham, Banu al-Aws, and Banu Tha'labah. Their properties, synagogues, and traditional customs were protected under law, on the condition that they acted with integrity and committed no treason or oppression.",
+      "text": "The same form of words is extended in the text to other named groups, among them Banu al-Najjar, Banu al-Harith, Banu Sa'idah, Banu Jusham, Banu al-Aws, and Banu Tha'labah: the Jews have their religion and the Muslims have theirs. The document does not list synagogues. It does say that each side bears its own expenses, and that they help one another against whoever fights the people of this document. Whoever does wrong ruins only himself and the people of his house.",
       "imageName": null
     },
     {
@@ -91,19 +91,19 @@
     {
       "id": "sec_032_14",
       "type": "paragraph",
-      "text": "In exchange for full citizenship and religious freedom, the Charter established mutual civic and defensive obligations. All signatories—Muslims, Jews, and allied clans—were bound to mutual consultation, sincere counsel, and collective defense. If Madinah were attacked by an external enemy, all factions were obligated to join in defending the valley, each community bearing its respective financial expenditures during wartime.",
+      "text": "The valley is not left without a rule of defense. The text says that the Jews spend with the believers so long as they are at war. No protection is given to Quraysh, or to anyone who helps them. The neighbor who is under protection is as one's own person, and is not to be harmed. These are provisions of the document as the early historians transmit it. They are not a grant of a later legal status called full citizenship.",
       "imageName": null
     },
     {
       "id": "sec_032_15",
       "type": "paragraph",
-      "text": "Furthermore, the valley of Yathrib was solemnly declared an inviolable sacred sanctuary (Haram) wherein all bloodshed, injustice, and warfare among the signatories were strictly prohibited. In the event of any civil dispute or murder that threatened the peace of the oasis, the matter was to be referred for supreme arbitration to God and His Messenger Muhammad ﷺ.",
+      "text": "The inside of Yathrib is a haram for the people of this document. Whoever goes out is safe and whoever stays is safe, except one who does wrong or sins. Whatever they differ about is referred to God and to Muhammad. That referral is what the text says. It is not described here as a supreme constitutional court.",
       "imageName": null
     },
     {
       "id": "sec_032_16",
       "type": "paragraph",
-      "text": "Modern legal historians widely recognize the Charter of Madinah as the earliest written constitution in human history establishing a pluralistic, multi-religious civic compact based on mutual consent rather than conquest. While scholars treat later interpretative anachronisms with academic care, the historical reality of the Sahifah stands as an enduring monument to prophetic wisdom, social justice, and constitutional governance.",
+      "text": "The sahifah is an early community agreement, preserved in the sirah and in Kitab al-Amwal. Later writers have compared it with constitutions and with modern ideas of equal citizenship. Those comparisons are interpretations. They are not clauses of the document, and this chapter does not state them as facts of the first year.",
       "imageName": null
     }
   ],
@@ -113,21 +113,21 @@
       "title": "Al-Sirah al-Nabawiyyah",
       "author": "Ibn Hisham (d. 218 AH)",
       "source": "Vol. 1: Kitab Rasulillah bayna al-Muhajirin wa al-Ansar wa Muwada'at Yahud (Sahifat al-Madinah)",
-      "notes": "Primary classical transmission of the text of the Charter of Madinah recorded from Ibn Ishaq."
+      "notes": "Ibn Ishaq's transmission of the sahifah: the ummah clause, blood-money, the Jewish clans, the haram, and the ban on sheltering Quraysh."
     },
     {
       "id": "ref_032_02",
       "title": "Kitab al-Amwal",
       "author": "Abu Ubayd al-Qasim ibn Sallam (d. 224 AH)",
       "source": "Bab Kitab al-Nabi bayna Ahl al-Madinah wa Yahud, Hadith 518",
-      "notes": "Early juristic compilation preserving the authenticated legal clauses and textual transmission of the Sahifah."
+      "notes": "An early copy of the document in Kitab al-Amwal. It is not a report in the two Sahihs, and it is not called here a constitution."
     },
     {
       "id": "ref_032_03",
       "title": "Tarikh al-Rusul wa al-Muluk",
       "author": "Al-Tabari (d. 310 AH)",
       "source": "Vol. 2: Events of Year 1 AH and the Constitutional Organization of Yathrib",
-      "notes": "Historical analysis of the political landscape in Madinah and the covenants concluded with local tribes."
+      "notes": "The setting of Yathrib in the first year, as the historians give it. Later political labels are not part of that account."
     },
     {
       "id": "ref_032_04",

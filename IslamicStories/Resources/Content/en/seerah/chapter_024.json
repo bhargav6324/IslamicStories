@@ -5,8 +5,8 @@
   "languageCode": "en",
   "title": "The Journey to Ta'if",
   "subtitle": "Rejection in the Mountains and the Mercy of the Messenger",
-  "summary": "The arduous sixty-mile trek to the mountain city of Ta'if, the cold scorn of the chieftains of Thaqif, the violent pelting by the city's mob, refuge in the orchard of Utbah and Shaybah, the touching encounter with the servant Addas, and the refusal to destroy the persecutors in hope of their descendants' faith.",
-  "estimatedReadingMinutes": 10,
+  "summary": "The arduous sixty-mile trek to the mountain city of Ta'if, the cold scorn of the chieftains of Thaqif, the pelting, the orchard, and Addas as sirah, and, separately, the Angel of the Mountains at Qarn al-Tha'alib in Bukhari and Muslim.",
+  "estimatedReadingMinutes": 6,
   "coverImageName": "SeerahChapter024Cover",
   "isPremium": true,
   "sections": [
@@ -43,7 +43,7 @@
     {
       "id": "sec_024_06",
       "type": "paragraph",
-      "text": "Upon reaching Ta'if, the Prophet ﷺ went directly to the grand estate of the city's three paramount chieftains—the brothers Abd Yalil, Mas'ud, and Habib, sons of Amr ibn Umayyah al-Thaqafi. Sitting before them with dignity, he invited them to the worship of the One God and asked them to assist him in delivering his message to mankind.",
+      "text": "Upon reaching Ta'if, the Prophet ﷺ went directly to the grand estate of the city's three paramount chieftains—three chiefs whom the sirah names as Abd Yalil, Mas'ud, and Habib. The hadith of the Angel of the Mountains, which is a separate report, names the refusal of Ibn Abd Yalil. Sitting before them with dignity, he invited them to the worship of the One God and asked them to assist him in delivering his message to mankind.",
       "imageName": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "id": "sec_024_09",
       "type": "paragraph",
-      "text": "Instead of permitting their guest to depart in peace, the chieftains incited the town's rowdiest youths, slaves, and idle crowds to harass him. They formed two parallel lines along the narrow road leading out of the city, armed with sharp stones and rocks. As the Prophet ﷺ and Zayd walked through the gauntlet, the mob hurled insults and pelted them with stones.",
+      "text": "The stoning that follows is the narrative in Ibn Hisham, not the text of Bukhari 3231 or Muslim 1795. In that account the chieftains incited the town's rowdiest youths, slaves, and idle crowds to harass him. They formed two parallel lines along the narrow road leading out of the city, armed with sharp stones and rocks. As the Prophet ﷺ and Zayd walked through the gauntlet, the mob hurled insults and pelted them with stones.",
       "imageName": null
     },
     {
@@ -85,13 +85,13 @@
     {
       "id": "sec_024_13",
       "type": "paragraph",
-      "text": "Bruised and bleeding, the two men found refuge inside a walled vineyard belonging to two wealthy Makkan aristocrats, Utbah and Shaybah, the sons of Rabi'ah. Slumping beneath the shade of a grapevine, the Prophet ﷺ turned his heart toward Heaven in one of the most sublime and poignant supplications ever recorded in human literature, expressing his absolute humility, vulnerability, and contentment with God's will:",
+      "text": "The vineyard of Utbah and Shaybah, the servant Addas, and the supplication under the vine are likewise the sirah of Ibn Hisham. They are not part of the hadith of the Angel of the Mountains. In that account the two men took shelter in the orchard, and the Prophet turned to God. The supplication is transmitted at length in the sirah. This chapter quotes only the opening, and does not treat the longer wording as a numbered hadith.",
       "imageName": null
     },
     {
       "id": "sec_024_14",
       "type": "quote",
-      "text": "اللَّهُمَّ إِلَيْكَ أَشْكُو ضَعْفَ قُوَّتِي، وَقِلَّةَ حِيلَتِي، وَهَوَانِي عَلَى النَّاسِ\n'O God, unto You alone do I complain of my weakness, the scarcity of my resources, and my humiliation before mankind... If You are not displeased with me, then I care not, but Your protection is all-encompassing for me.'",
+      "text": "اللَّهُمَّ إِلَيْكَ أَشْكُو ضَعْفَ قُوَّتِي، وَقِلَّةَ حِيلَتِي، وَهَوَانِي عَلَى النَّاسِ\n'O God, to You I complain of the weakness of my strength, the scantness of my means, and my being of little account among people.' — opening of the supplication in the sirah of Ibn Hisham. The longer form, in that same account, asks God not to leave him to a distant stranger or an enemy, and says that if God is not displeased with him he does not mind. It is not quoted here in full.",
       "imageName": null
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": "sec_024_18",
       "type": "paragraph",
-      "text": "Leaving the orchard to return toward Makkah with a heavy heart, the Prophet halted at Qarn al-Manazil. As recorded in Sahih al-Bukhari and Sahih Muslim in a narration from Aisha رضي الله عنها, the Prophet recounted that a cloud suddenly overshadowed him. Looking up, he saw the Angel Jibril, who called out and said: 'God has heard what your people said to you and how they responded. He has sent to you the Angel of the Mountains, that you may command him to do with them as you wish.'",
+      "text": "The report in Sahih al-Bukhari 3231 and Sahih Muslim 1795, from Aishah, is a different scene. When the Prophet returned from Ta'if after Ibn Abd Yalil had refused him, he halted at Qarn al-Tha'alib. A cloud overshadowed him, and Jibril called to him: God had heard what the people had said, and had sent the Angel of the Mountains so that the Prophet might command him as he wished. The hadith does not place this meeting in the vineyard, and it does not use the name Qarn al-Manazil.",
       "imageName": null
     },
     {
@@ -137,21 +137,21 @@
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab Bad' al-Khalq, Bab Idh Qala Ahada'kum Amin wa Fada'il Jibril, Hadith 3231",
-      "notes": "Authentic Hadith of Aisha inquiring about the hardest day of the Prophet's life and the incident of the Angel of the Mountains."
+      "notes": "Aishah's hadith of the Angel of the Mountains at Qarn al-Tha'alib, after Ibn Abd Yalil's refusal."
     },
     {
       "id": "ref_024_02",
       "title": "Sahih Muslim",
       "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
       "source": "Kitab al-Jihad wa al-Siyar, Bab Ma Laqiya al-Nabi min Adha al-Mushrikin, Hadith 1795",
-      "notes": "Authentic documentation of the dialogue between the Prophet, Jibril, and the Angel of the Mountains at Qarn al-Manazil."
+      "notes": "The Angel of the Mountains at Qarn al-Tha'alib, after Ibn Abd Yalil's refusal. Separate from the stoning, the vineyard, Addas, and the supplication, which this chapter takes from Ibn Hisham."
     },
     {
       "id": "ref_024_03",
       "title": "Al-Sirah al-Nabawiyyah",
       "author": "Ibn Hisham (d. 218 AH)",
       "source": "Vol. 1: Masir al-Nabi ila al-Ta'if wa Du'a'uh fi al-Bustan wa Qissat Addas",
-      "notes": "Detailed classical biographical narrative of the journey to Ta'if, the orchard of Utbah and Shaybah, and the conversion of Addas."
+      "notes": "The journey, the stoning, the orchard of Utbah and Shaybah, Addas, and the supplication. Not the text of Bukhari 3231 or Muslim 1795."
     },
     {
       "id": "ref_024_04",

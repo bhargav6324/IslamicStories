@@ -1,0 +1,110 @@
+{
+  "id": "seerah_049",
+  "collectionId": "seerah",
+  "chapterNumber": 49,
+  "languageCode": "en",
+  "title": "The Passing of Sa'd ibn Mu'adh",
+  "subtitle": "The Shaking of the Divine Throne and the Grief of the Believers",
+  "summary": "Sa'd's wound and his supplication in Bukhari 4122, the Throne shaking at his death in Bukhari 3803 and Muslim 2466 and 2467, and the report that his handkerchiefs in Paradise are softer than silk, in Bukhari 3802 and Muslim 2468.",
+  "estimatedReadingMinutes": 3,
+  "coverImageName": "SeerahChapter049Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_049_02",
+      "type": "heading",
+      "text": "The Arrow at the Trench & The Medical Tent",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_03",
+      "type": "paragraph",
+      "text": "During the height of the bombardment at the Trench, Hibban ibn al-Ariqah, a Makkan archer, loosed an arrow that struck Sa'd ibn Mu'adh directly in the medial vein (al-akhal) of his arm. Blood spurted forth profusely. To keep him under his personal surveillance and spiritual care, the Prophet Muhammad ﷺ erected a tent for him in the courtyard of the Prophet's Mosque under the care of Rufaydah al-Aslamiyyah, an early Muslim woman physician celebrated for dressing battlefield wounds.",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_04",
+      "type": "paragraph",
+      "text": "Bukhari 4122 records Sa'd's supplication while he was wounded: that if fighting with Quraysh remained, God should spare him for it, and that if that fighting was over, the wound should be his death, but not before his eyes were comforted concerning Banu Qurayzah. The report is not decorated here beyond that prayer.",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_05",
+      "type": "heading",
+      "text": "The Rupture of the Vein & The Prophetic Embrace",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_06",
+      "type": "paragraph",
+      "text": "Once Sa'd delivered his righteous verdict at Banu Qurayza, his life's sacred mission was complete. He was carried back to his tent in the Prophet's Mosque. Soon after, his wound ruptured, and blood began flowing beneath the tent wall into an adjacent enclosure occupied by the Banu Ghifar, who cried out: 'O occupants of the tent, what is this flowing toward us from you?' They found Sa'd hemorrhaging peacefully, surrendering his soul to his Creator.",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_07",
+      "type": "paragraph",
+      "text": "The Prophet ﷺ rushed to his side and cradled Sa'd's head in his lap. Tears flowed freely down the cheeks of the Messenger of Allah ﷺ, soaking his beard. Aisha recounted that she could clearly distinguish the deep, sorrowful weeping of Abu Bakr and Umar outside the tent. Sa'd was only thirty-seven years old, having embraced Islam barely six years earlier at the hands of Mus'ab ibn Umayr, yet in those six years, his leadership had transformed Madinah into the sanctuary of the faith.",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_08",
+      "type": "heading",
+      "text": "The Shaking of the Divine Throne",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_09",
+      "type": "paragraph",
+      "text": "When Sa'd passed away, the Messenger of Allah ﷺ uttered an extraordinary cosmic testimony that shocked and exalted the companions:",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_10",
+      "type": "quote",
+      "text": "اهْتَزَّ عَرْشُ الرَّحْمَنِ لِمَوْتِ سَعْدِ بْنِ مُعَاذٍ\n'The Throne of the Most Merciful shook at the death of Sa'd ibn Mu'adh!' (Sahih al-Bukhari 3803, Sahih Muslim 2466)",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_11",
+      "type": "paragraph",
+      "text": "Jabir reported, in Bukhari 3803 and in Muslim 2466 and 2467, that the Prophet said the Throne shook at the death of Sa'd ibn Mu'adh. Muslim 2467 places that word while the bier was set down. A report that seventy thousand angels carried the bier was attached in the draft to collections that were not confirmed for that sentence. It is not stated here as part of these Hadiths.",
+      "imageName": null
+    },
+    {
+      "id": "sec_049_12",
+      "type": "paragraph",
+      "text": "Al-Bara' reported, in Bukhari 3802 and Muslim 2468, that a silk cloth was shown to the Prophet and that he said the handkerchiefs of Sa'd ibn Mu'adh in Paradise were better and softer. That is the checked report about him after his death. A scent of musk at the grave, and a constriction of the grave, were cited from a Musnad number that was not opened. Those details are not asserted here.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_049_01",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab Manaqib al-Ansar, Hadith 3802 and 3803",
+      "notes": "3803 is Jabir: the Throne shook at Sa'd's death. 3802 is the silk cloth and the handkerchiefs of Sa'd in Paradise. The old note treated 3802–3804 as the Throne report. 3804 is the judgment scene, already cited with Banu Qurayzah, not the funeral."
+    },
+    {
+      "id": "ref_049_02",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
+      "source": "Kitab Fada'il al-Sahabah, Hadith 2466, 2467, and 2468",
+      "notes": "2466 and 2467: the Throne shook. 2468: the handkerchiefs in Paradise. These reports do not mention seventy thousand angels."
+    },
+    {
+      "id": "ref_049_03",
+      "title": "Musnad Ahmad",
+      "author": "Ahmad ibn Hanbal (d. 241 AH)",
+      "source": "Hadith 14881 was not opened",
+      "notes": "The earlier draft attached a scent of musk and an expansion of the grave to this number. The text was not opened, so those details are not stated in the chapter."
+    },
+    {
+      "id": "ref_049_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "Historical narrative compiled from classical sources; editorial draft pending independent scholarly review before publication."
+    }
+  ]
+}

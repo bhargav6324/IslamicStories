@@ -6,7 +6,7 @@
   "title": "A Powerful Conversion",
   "subtitle": "The Awakening of Umar ibn al-Khattab and Open Worship in Makkah",
   "summary": "The formidable standing of Umar ibn al-Khattab in pre-Islamic Makkah, his fierce defense of tribal customs, the emotional turning point prompted by Surah Ta-Ha, his pledge of allegiance at Dar al-Arqam, and the bold emergence of open congregational prayer at the Kaaba.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 7,
   "coverImageName": "SeerahChapter021Cover",
   "isPremium": true,
   "sections": [
@@ -19,7 +19,7 @@
     {
       "id": "sec_021_02",
       "type": "paragraph",
-      "text": "In the sixth year of the prophetic mission, the small Muslim community in Makkah remained besieged by relentless hostility. Among their fiercest opponents stood Umar ibn al-Khattab of the Banu Adi clan. Tall, physically commanding, articulate, and endowed with an unyielding sense of tribal honor, Umar served as an official mediator and ambassador for Quraysh during disputes. To his mind, the new message proclaimed by Muhammad ﷺ was tearing the fabric of Makkan society apart, dividing fathers from sons and shattering centuries of ancestral reverence.",
+      "text": "Classical sirah places what follows in the sixth year of the prophetic mission. That year is the biographers' setting, not a date fixed by an agreed hadith. The small Muslim community in Makkah remained besieged by relentless hostility. Among their fiercest opponents stood Umar ibn al-Khattab of the Banu Adi clan. Tall, physically commanding, articulate, and endowed with an unyielding sense of tribal honor, Umar served as an official mediator and ambassador for Quraysh during disputes. To his mind, the new message proclaimed by Muhammad ﷺ was tearing the fabric of Makkan society apart, dividing fathers from sons and shattering centuries of ancestral reverence.",
       "imageName": null
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": "sec_021_10",
       "type": "paragraph",
-      "text": "The profound majesty, rhythm, and moral clarity of the divine verses pierced Umar's soul. Classical biographers note that he wept, marveling at the beauty of the text, and exclaimed: 'How noble and honorable are these words!' Hearing this confession, Khabbab emerged from hiding and rejoiced: 'O Umar, by God, I hope that the prayer of the Messenger of God ﷺ has been answered for you! For only yesterday he supplicated: O God, strengthen Islam with whichever of the two men is more beloved to You: Abu Jahl or Umar ibn al-Khattab.'",
+      "text": "The profound majesty, rhythm, and moral clarity of the divine verses pierced Umar's soul. Classical biographers note that he wept, marveling at the beauty of the text, and exclaimed: 'How noble and honorable are these words!' Hearing this confession, Khabbab emerged from hiding and rejoiced: 'O Umar, by God, I hope that the prayer of the Messenger of God ﷺ has been answered for you! The sirah places at this moment a supplication reported in the Sunan: O God, strengthen Islam by whichever of the two men is more beloved to You, Abu Jahl or Umar ibn al-Khattab. That supplication is not the text of Bukhari 3684.'",
       "imageName": null
     },
     {
@@ -79,7 +79,7 @@
     {
       "id": "sec_021_12",
       "type": "paragraph",
-      "text": "Umar immediately asked where the Prophet ﷺ could be found. Directed to Dar al-Arqam near the foot of Mount Safa, he walked through Makkah with his sword sheathed at his side. When he knocked upon the door, the companions inside peered out and grew tense, knowing Umar's legendary prowess in battle. Hamzah ibn Abd al-Muttalib, who had embraced Islam just three days earlier, stood forward courageously and said: 'Admit him; if he comes seeking good, we will grant it to him, and if he comes seeking evil, we will slay him with his own sword.'",
+      "text": "Umar immediately asked where the Prophet ﷺ could be found. Directed to Dar al-Arqam near the foot of Mount Safa, he walked through Makkah with his sword sheathed at his side. When he knocked upon the door, the companions inside peered out and grew tense, knowing Umar's legendary prowess in battle. Hamzah ibn Abd al-Muttalib, whom the sirah of Ibn Ishaq places only a few days earlier. That interval is not a date in Sahih al-Bukhari, stood forward courageously and said: 'Admit him; if he comes seeking good, we will grant it to him, and if he comes seeking evil, we will slay him with his own sword.'",
       "imageName": null
     },
     {
@@ -103,7 +103,7 @@
     {
       "id": "sec_021_16",
       "type": "paragraph",
-      "text": "Umar's conversion marked a decisive watershed in the chronology of early Islam. Prior to that day, the Muslims had prayed in secret, hiding in secluded defiles and private homes to avoid beatings and harassment. Umar famously asked the Prophet ﷺ: 'Are we not upon the truth, whether we live or die?' When the Prophet confirmed that they were, Umar said: 'Then why should we conceal our worship?'",
+      "text": "In the sirah, Umar's acceptance is told as the point after which the Muslims prayed in the open. The household scene itself is that biographical account. Prior to that day, the Muslims had prayed in secret, hiding in secluded defiles and private homes to avoid beatings and harassment. Umar famously asked the Prophet ﷺ: 'Are we not upon the truth, whether we live or die?' When the Prophet confirmed that they were, Umar said: 'Then why should we conceal our worship?'",
       "imageName": null
     },
     {
@@ -115,13 +115,13 @@
     {
       "id": "sec_021_18",
       "type": "quote",
-      "text": "ما زلنا أعزة منذ أسلم عمر\n'We have continued to feel strength and dignity ever since Umar accepted Islam.' — Abdullah ibn Mas'ud (Sahih al-Bukhari)",
+      "text": "ما زلنا أعزة منذ أسلم عمر\n'We have continued to feel strength and dignity ever since Umar accepted Islam.' — Abdullah ibn Mas'ud (Sahih al-Bukhari 3684)",
       "imageName": null
     },
     {
       "id": "sec_021_19",
       "type": "paragraph",
-      "text": "Through Umar's acceptance of Islam, the early community crossed an essential threshold. The faith transitioned from an embattled private circle into a public movement capable of asserting its presence before the highest assemblies of Quraysh, setting in motion historical forces that would soon reshape the Arabian Peninsula.",
+      "text": "Bukhari 3684 preserves Ibn Mas'ud's sentence, and no more than that sentence. The meeting at Fatimah's house, the parchment of Ta-Ha, and the walk to Dar al-Arqam are the account in Ibn Ishaq, and this chapter does not attribute them to that hadith.",
       "imageName": null
     }
   ],
@@ -131,14 +131,14 @@
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab Fada'il Ashab al-Nabi, Bab Islam Umar ibn al-Khattab, Hadith 3684",
-      "notes": "Authentic Hadith recording Abdullah ibn Mas'ud's testimony regarding the communal strength brought by Umar's conversion."
+      "notes": "Ibn Mas'ud's sentence that the Muslims felt strength from the time Umar accepted Islam. The hadith does not narrate the conversion scene."
     },
     {
       "id": "ref_021_02",
       "title": "Al-Sirah al-Nabawiyyah",
       "author": "Ibn Hisham (d. 218 AH)",
       "source": "Vol. 1: Islam Umar ibn al-Khattab wa Khuruj al-Muslimin ila al-Ka'bah",
-      "notes": "Detailed classical historical narrative of the encounter with Fatimah, Surah Ta-Ha, and the march to the Kaaba."
+      "notes": "The household scene, the few days after Hamzah, and the march to the Kaaba, as classical sirah. The year is the biographers' placement."
     },
     {
       "id": "ref_021_03",

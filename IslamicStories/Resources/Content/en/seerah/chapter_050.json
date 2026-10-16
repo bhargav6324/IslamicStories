@@ -1,0 +1,110 @@
+{
+  "id": "seerah_050",
+  "collectionId": "seerah",
+  "chapterNumber": 50,
+  "languageCode": "en",
+  "title": "Securing the Central Desert: Dhat al-Riqa'",
+  "subtitle": "Securing the Bedouin Frontiers and the Introduction of Salat al-Khawf",
+  "summary": "The proactive expedition into the Najd highlands, the bandaged bleeding feet giving name to Dhat al-Riqa', the divine revelation of Salat al-Khawf, the lone confrontation beneath the acacia tree, and the Prophet's sublime forgiveness of Ghawrath.",
+  "estimatedReadingMinutes": 3,
+  "coverImageName": "SeerahChapter050Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_050_02",
+      "type": "heading",
+      "text": "An Expedition Whose Date Is Disputed",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_03",
+      "type": "paragraph",
+      "text": "This chapter does not place Dhat al-Riqa' as the certain next campaign after Banu Qurayzah. Historians differ. Some put a Najd expedition before the trench. Others put it later. Abu Musa al-Ash'ari narrates the rags, and his arrival in Madinah from Abyssinia is one reason later writers argue for a later date. That argument is not a proof by itself. The reports of four hundred men and of seven hundred men are both classical figures, and neither is treated here as settled. What Bukhari does fix is the hardship of the march and the incident at the tree, not the year.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_04",
+      "type": "paragraph",
+      "text": "The expedition became famously known as Ghazwat Dhat al-Riqa' (The Expedition of Rags). Abu Musa al-Ash'ari recounted the extreme physical hardship of the march over razor-sharp volcanic stones and burning sands: 'Our shoes were torn to pieces, our toenails fell off, and our feet became raw and bleeding until we wrapped strips of cloth (riqa') around our feet.' The name thus commemorated the quiet resilience of early believers who traversed burning deserts bound in rags.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_05",
+      "type": "heading",
+      "text": "The Legislation of Salat al-Khawf",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_06",
+      "type": "paragraph",
+      "text": "The Quran legislates the fear prayer when the Prophet was among them. Muslim 840 records one way it was prayed: two rows, with the enemy between the Muslims and the qiblah, the rows taking turns in prostration. That is one description among the reports. It should not be collapsed into a single parade-ground diagram.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_07",
+      "type": "quote",
+      "text": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ\n'And when you are among them and lead them in prayer, let one group of them stand with you and let them take their arms.' (Surah al-Nisa 4:102, opening only; the verse continues.)",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_08",
+      "type": "heading",
+      "text": "The Encounter under the Acacia Tree",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_09",
+      "type": "paragraph",
+      "text": "On the return journey the army halted in the heat among acacia trees. The companions sought shade. Bukhari 4136 says the Prophet was resting under a tree with his sword hanging on it when a man took the sword.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_10",
+      "type": "paragraph",
+      "text": "Bukhari 4136 reports that the man said, 'Who will protect you from me?' The Prophet said, 'Allah.' The sword fell. The Prophet took it and asked who would protect the man from him. The man asked to be spared. He did not accept Islam then, and he said he would not fight the Prophet or join those who did.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_11",
+      "type": "paragraph",
+      "text": "One chain of Bukhari 4136 names him Ghawrath ibn al-Harith. The Prophet released him.",
+      "imageName": null
+    },
+    {
+      "id": "sec_050_12",
+      "type": "paragraph",
+      "text": "The Prophet let him go. Bukhari 4136 says the man returned to his people and told them he had come from the best of people. The dating of the expedition remains the disputed point noted above.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_050_01",
+      "title": "The Holy Quran",
+      "author": "Surah An-Nisa (4:101–103)",
+      "source": "Preserved Quranic text",
+      "notes": "Divine legislation of Salat al-Khawf (the Prayer of Fear) during times of warfare."
+    },
+    {
+      "id": "ref_050_02",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab al-Maghazi, Bab Ghazwat Dhat al-Riqa', Hadith 4128 & Hadith 4136",
+      "notes": "Authentic records of Abu Musa's report on the rags and the narrative of the bedouin under the acacia tree."
+    },
+    {
+      "id": "ref_050_03",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
+      "source": "Kitab Salat al-Musafirin, Hadith 840",
+      "notes": "Jabir's description of one form of the fear prayer. Hadiths 841–843 were not each opened, so the citation is 840 only. The book is the prayer of travelers, within Sahih Muslim."
+    },
+    {
+      "id": "ref_050_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "Historical narrative compiled from classical sources; editorial draft pending independent scholarly review before publication."
+    }
+  ]
+}

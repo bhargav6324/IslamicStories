@@ -6,7 +6,7 @@
   "title": "The First Call to Prayer",
   "subtitle": "The Deliberations of Madinah, the Vision of Abdullah ibn Zayd, and the Voice of Bilal",
   "summary": "The dilemma of summoning the growing community to prayer, the consultation rejecting bells, horns, and fires, the true dream granted to Abdullah ibn Zayd and Umar ibn al-Khattab, the appointment of Bilal ibn Rabah, and the resonant anthem of monotheism echoing across Madinah.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 5,
   "coverImageName": "NightStarsDesert",
   "isPremium": true,
   "sections": [
@@ -49,13 +49,13 @@
     {
       "id": "sec_033_07",
       "type": "paragraph",
-      "text": "The stranger smiled and said: 'Shall I not guide you to that which is far better?' Abdullah eagerly replied: 'Indeed, yes!' The man then stood, faced the Qiblah, and proclaimed in a clear, resonant voice the immortal words of the Adhan:",
+      "text": "The stranger smiled and said: 'Shall I not guide you to that which is far better?' Abdullah eagerly replied: 'Indeed, yes!' The man then stood, faced the Qiblah, and proclaimed in a clear, resonant voice the call, in the wording of Sunan Abi Dawud 499:",
       "imageName": null
     },
     {
       "id": "sec_033_08",
       "type": "quote",
-      "text": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ\nأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ\nأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ\nحَيَّ عَلَى الصَّلَاةِ، حَيَّ عَلَى الْفَلَاحِ\nاللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ\n'God is the Greatest! God is the Greatest! I bear witness that there is no deity worthy of worship except God! I bear witness that Muhammad is the Messenger of God! Hasten to prayer! Hasten to success! God is the Greatest! God is the Greatest! There is no deity worthy of worship except God!'",
+      "text": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ\nأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ\nأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ\nحَيَّ عَلَى الصَّلَاةِ، حَيَّ عَلَى الصَّلَاةِ\nحَيَّ عَلَى الْفَلَاحِ، حَيَّ عَلَى الْفَلَاحِ\nاللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ\nلَا إِلَهَ إِلَّا اللَّهُ\n'God is the greatest, God is the greatest, God is the greatest, God is the greatest. I bear witness that there is no god but God, I bear witness that there is no god but God. I bear witness that Muhammad is the Messenger of God, I bear witness that Muhammad is the Messenger of God. Come to prayer, come to prayer. Come to success, come to success. God is the greatest, God is the greatest. There is no god but God.' This is the adhan in the transmission of Ibn Ishaq in Abu Dawud 499. Abu Dawud notes that Ma'mar and Yunus, from al-Zuhri, open with 'God is the greatest' twice rather than four times. The testimonies and the two invitations are still repeated. The report is outside Bukhari and Muslim; later graders have called it hasan. The chapter does not enter the dispute over which opening is used in the prayer.",
       "imageName": null
     },
     {
@@ -113,21 +113,21 @@
       "title": "Sunan Abi Dawud",
       "author": "Imam Abu Dawud al-Sijistani (d. 275 AH)",
       "source": "Kitab al-Salat, Bab Bad' al-Adhan, Hadith 499",
-      "notes": "Authentic Hadith preserving Abdullah ibn Zayd's narrative of his dream, the stranger in green, and Umar's corroboration."
+      "notes": "Abdullah ibn Zayd's dream in Abu Dawud 499, with the repeated testimonies and invitations. Outside the two Sahihs; often graded hasan. Transmissions differ on two or four opening takbirs."
     },
     {
       "id": "ref_033_02",
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab al-Adhan, Bab Bad' al-Adhan wa Mashwarat al-Sahabah, Hadith 604",
-      "notes": "Authentic documentation of the consultation rejecting bells and horns, and the appointment of Bilal."
+      "notes": "Cited for the consultation about how to gather people for prayer. Not used here as a second text of the adhan wording."
     },
     {
       "id": "ref_033_03",
       "title": "Sahih Muslim",
       "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
       "source": "Kitab al-Salat, Bab Bad' al-Adhan, Hadith 377",
-      "notes": "Authentic narration of Ibn Umar detailing the consultation and the command to Bilal to call out the prayer."
+      "notes": "Cited for the consultation and Bilal. Not used here as the wording of the call."
     },
     {
       "id": "ref_033_04",

@@ -42,3 +42,29 @@ targets:
         CODE_SIGN_STYLE: Automatic
         GENERATE_INFOPLIST_FILE: YES
         SWIFT_VERSION: "5.0"
+
+schemes:
+  IslamicStories:
+    build:
+      targets:
+        IslamicStories: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - IslamicStoriesTests
+
+  IslamicStories-LocalMock:
+    build:
+      targets:
+        IslamicStories: all
+    run:
+      config: Debug
+      storeKitConfiguration: IslamicStories/Resources/Subscriptions.storekit
+    test:
+      config: Debug
+      storeKitConfiguration: IslamicStories/Resources/Subscriptions.storekit
+      targets:
+        - IslamicStoriesTests
+

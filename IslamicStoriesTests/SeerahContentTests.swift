@@ -6,7 +6,7 @@ final class SeerahContentTests: XCTestCase {
     let repository = ContentRepository.shared
     
     func testAllChaptersLoadInBothLanguages() throws {
-        for chapterNum in 1...40 {
+        for chapterNum in 1...80 {
             // Test English
             let enChapter = try repository.loadChapter(
                 collectionId: "seerah",
@@ -53,13 +53,13 @@ final class SeerahContentTests: XCTestCase {
     
     func testSeerahCollectionSummariesCount() {
         let enSummaries = repository.getChapterSummaries(collectionId: "seerah", languageCode: "en")
-        XCTAssertEqual(enSummaries.count, 40, "Expected 40 chapters in English Seerah summaries")
+        XCTAssertEqual(enSummaries.count, 80, "Expected 80 chapters in English Seerah summaries")
         for (i, chap) in enSummaries.enumerated() {
             XCTAssertEqual(chap.chapterNumber, i + 1)
         }
         
         let arSummaries = repository.getChapterSummaries(collectionId: "seerah", languageCode: "ar")
-        XCTAssertEqual(arSummaries.count, 40, "Expected 40 chapters in Arabic Seerah summaries")
+        XCTAssertEqual(arSummaries.count, 80, "Expected 80 chapters in Arabic Seerah summaries")
         for (i, chap) in arSummaries.enumerated() {
             XCTAssertEqual(chap.chapterNumber, i + 1)
         }

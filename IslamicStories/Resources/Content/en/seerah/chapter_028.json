@@ -6,7 +6,7 @@
   "title": "The Great Migration",
   "subtitle": "The Plot of Dar al-Nadwah, the Sanctuary of Thawr, and the Journey to Freedom",
   "summary": "The secret departures of early believers to Yathrib, Quraysh's assassination plot in Dar al-Nadwah, Ali's sacrifice in the Prophet's bed, three days in Cave Thawr with Abu Bakr, divine tranquility in the face of pursuers, and the coastal ride toward destiny.",
-  "estimatedReadingMinutes": 10,
+  "estimatedReadingMinutes": 6,
   "coverImageName": "DesertCaravan",
   "isPremium": true,
   "sections": [
@@ -49,7 +49,7 @@
     {
       "id": "sec_028_07",
       "type": "paragraph",
-      "text": "This treacherous council is immortalized in Surah Al-Anfal in the Holy Quran:",
+      "text": "Surah al-Anfal records that council:",
       "imageName": null
     },
     {
@@ -67,13 +67,13 @@
     {
       "id": "sec_028_10",
       "type": "paragraph",
-      "text": "Forewarned by the Angel Jibril, the Prophet visited Abu Bakr at midday to finalize their travel arrangements. As darkness fell, the armed assassins surrounded the Prophet's modest home, peering through the door fissures and waiting for him to step outside at dawn. The Prophet instructed Ali ibn Abi Talib to wrap himself in his green Hadrami mantle and lie in his bed, assuring him: 'Sleep upon my bed; no harm that you detest will reach you from them.' Ali accepted the perilous assignment with absolute tranquility, willingly offering his life as a shield so that the trusts and financial deposits held by the Prophet for the people of Makkah could be safely returned to their owners.",
+      "text": "Forewarned by the Angel Jibril, the Prophet visited Abu Bakr at midday to finalize their travel arrangements. As darkness fell, the armed assassins surrounded the Prophet's modest home, peering through the door fissures and waiting for him to step outside at dawn. The report that Ali lay in the Prophet's bed is classical sirah. It is not the cave hadith in Bukhari and Muslim. In that sirah the Prophet instructed Ali to wrap himself in his green Hadrami mantle and lie in his bed, assuring him: 'Sleep upon my bed; no harm that you detest will reach you from them.' Ali accepted the perilous assignment with absolute tranquility, willingly offering his life as a shield so that the trusts and financial deposits held by the Prophet for the people of Makkah could be safely returned to their owners.",
       "imageName": null
     },
     {
       "id": "sec_028_11",
       "type": "paragraph",
-      "text": "Under the veil of night, reciting verses from Surah Ya-Sin ('And We have put before them a barrier and behind them a barrier and covered them, so they do not see'), the Prophet walked directly past the encircling sentries. A slumber had fallen upon them; he cast a handful of dust over their heads and departed undetected into the night.",
+      "text": "A further sirah report says that he passed the guards while words of Surah Ya-Sin were recited — 'And We have put before them a barrier and behind them a barrier and covered them, so they do not see' — and that he cast a handful of dust upon their heads. That report is not the same narration as the conversation in the cave.",
       "imageName": null
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": "sec_028_15",
       "type": "image",
-      "text": "The rugged heights of Mount Thawr where divine serenity triumphed over tribal pursuit.",
+      "text": "A rocky height of the Hijaz, of the country in which Cave Thawr stands.",
       "imageName": "MountHira"
     },
     {
@@ -127,7 +127,7 @@
     {
       "id": "sec_028_20",
       "type": "paragraph",
-      "text": "This transcendent scene is immortalized in Surah At-Tawbah: 'If you do not aid him, God has already aided him when those who disbelieved had driven him out as one of two, when they were in the cave and he said to his companion: Do not grieve; indeed God is with us' (9:40). Blinded by divine protection, the trackers turned away.",
+      "text": "Part of Surah al-Tawbah says: 'If you do not aid him, God has already aided him when those who disbelieved drove him out, the second of two, when they were in the cave and he said to his companion, Do not grieve; indeed God is with us…' (9:40; the verse continues). The sirah adds that their sight was turned away and they left. That detail is not in the verse.",
       "imageName": null
     },
     {
@@ -150,7 +150,7 @@
       "title": "Sahih al-Bukhari",
       "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
       "source": "Kitab Manaqib al-Ansar, Bab Hijrat al-Nabi wa Ashabihi ila al-Madinah, Hadith 3905",
-      "notes": "Authentic, comprehensive Hadith of Aisha detailing the logistical preparations, Cave Thawr, and the journey."
+      "notes": "Aishah's hadith on the preparations, the cave, and the journey. Ali in the bed, Ya-Sin at the door, and the dust are sirah, not this hadith."
     },
     {
       "id": "ref_028_03",

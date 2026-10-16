@@ -1,0 +1,122 @@
+{
+  "id": "seerah_060",
+  "collectionId": "seerah",
+  "chapterNumber": 60,
+  "languageCode": "en",
+  "title": "The March to Khaybar",
+  "subtitle": "Opening the Northern Strongholds and the Triumph of Truth",
+  "summary": "The exclusive mobilization of the 1,400 companions of the Tree, the night march across the volcanic Harrah, Amir ibn al-Akwa's verses, the sunrise surprise of the farmers, and the prophetic proclamation: 'Allahu Akbar! Ruined is Khaybar!'",
+  "estimatedReadingMinutes": 3,
+  "coverImageName": "SeerahChapter060Cover",
+  "isPremium": true,
+  "sections": [
+    {
+      "id": "sec_060_02",
+      "type": "heading",
+      "text": "The Promised March to the Northern Stronghold",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_03",
+      "type": "paragraph",
+      "text": "In Muharram of the seventh year after the Hijrah, the Prophet set out for Khaybar. Equating that month with May 628 is a later conversion of the calendar, not a date the Hadith states, so it is not used. Khaybar lies north of Madinah in a volcanic tract. The classical sirah describes several forts, including al-Natat, al-Shiqq, and al-Katibah, and it gives large figures for the defenders. Those figures, including any total of twenty thousand, are not in Bukhari 4198. Banu al-Nadir's move to Khaybar after their expulsion is the sirah's sequel to that expulsion. The trench coalition's size was likewise a sirah figure, not a verse.",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_04",
+      "type": "paragraph",
+      "text": "In strict fulfillment of the divine revelation in Surah Al-Fath, which promised imminent spoils reserved exclusively for the steadfast believers who had sworn the Pledge of Ridwan, the Prophet issued a strict proclamation: none was permitted to march with the army except those who had taken the oath beneath the tree at Hudaybiyyah. Opportunists who had stayed behind seeking easy plunder were barred from the expedition. An elite, spiritually unified army of fourteen hundred infantry and two hundred cavalry marched north under the black banner of Islam.",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_05",
+      "type": "heading",
+      "text": "Night March & The Poetry of Amir",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_06",
+      "type": "paragraph",
+      "text": "As the army traversed the jagged volcanic wilderness under the starlit sky, the Prophet called upon Amir ibn al-Akwa', a beloved companion known for his eloquence, to chant verses to sustain their rhythm. Amir dismounted and began chanting camel-driving verses that resonated through the night:",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_07",
+      "type": "quote",
+      "text": "اللَّهُمَّ لَوْلَا أَنْتَ مَا اهْتَدَيْنَا * وَلَا تَصَدَّقْنَا وَلَا صَلَّيْنَا\nفَاغْفِرْ فِدَاءً لَكَ مَا أَبْقَيْنَا * وَأَلْقِيَنْ سَكِينَةً عَلَيْنَا\n'O Allah! Were it not for You, we would not have been guided, nor given charity, nor prayed. Forgive us our shortcomings, and cast down tranquility upon us!' (Sahih al-Bukhari 4196)",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_08",
+      "type": "paragraph",
+      "text": "The Prophet smiled and said: 'May your Lord have mercy upon you, O Amir!' The companions knew that whenever the Prophet asked mercy for a warrior specifically on the eve of battle, it signaled imminent martyrdom.",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_09",
+      "type": "heading",
+      "text": "The Morning Surprise & 'Allahu Akbar, Khuribat Khaybar!'",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_10",
+      "type": "paragraph",
+      "text": "The Prophet executed a brilliant strategic encirclement, marching past Khaybar and cutting off the valley of Al-Raji between Khaybar and the Ghatafan tribes of Najd, preventing four thousand Bedouin allies from coming to their defense. The Muslim army took positions around the fortresses in total silence under cover of darkness.",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_11",
+      "type": "paragraph",
+      "text": "At sunrise, the peasant farmers of Khaybar unlocked the massive wooden gates of their fortresses and walked out into their date plantations, carrying their wicker baskets, shovels, and agricultural spades. Suddenly, they looked up to see fourteen hundred armed Muslim warriors drawn up in battle arrays beneath their walls. Stunned in absolute disbelief, the laborers dropped their tools and scrambled backward into the fortresses, screaming at the top of their lungs: 'Muhammad, by Allah! Muhammad and the army (Muhammadun wal-khamis)!'",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_12",
+      "type": "paragraph",
+      "text": "Witnessing their panic, the Messenger of Allah ﷺ raised his voice with supreme prophetic authority, proclaiming three times:",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_13",
+      "type": "quote",
+      "text": "اللَّهُ أَكْبَرُ، خَرِبَتْ خَيْبَرُ! إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ\n'Allah is the greatest. Khaybar is ruined. When we descend into a people's courtyard, evil will be the morning of those who have been warned.' (Sahih al-Bukhari 4198)",
+      "imageName": null
+    },
+    {
+      "id": "sec_060_14",
+      "type": "paragraph",
+      "text": "The stage was set for one of the most decisive sieges in early Islamic history: the systematic opening of the northern strongholds that would finally secure the northern frontier of the Islamic state and establish enduring peace across Arabia.",
+      "imageName": null
+    }
+  ],
+  "references": [
+    {
+      "id": "ref_060_01",
+      "title": "The Holy Quran",
+      "author": "Surah Al-Fath (48:15 & 48:20)",
+      "source": "Preserved Quranic text",
+      "notes": "Divine promise reserving the spoils of Khaybar exclusively for those who attended the Pledge of Ridwan."
+    },
+    {
+      "id": "ref_060_02",
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Isma'il al-Bukhari (d. 256 AH)",
+      "source": "Kitab al-Maghazi, Hadith 4196 and 4198",
+      "notes": "4196 is Salamah ibn al-Akwa': the night march and Amir's verses, and then the later conquest, which this chapter does not narrate. 4198 is Anas: the morning cry, 'Khaybar is ruined,' when they came upon the workers. The old span 4196–4205 is not cited as a block."
+    },
+    {
+      "id": "ref_060_03",
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj (d. 261 AH)",
+      "source": "Kitab al-Jihad wa al-Siyar, Hadith 1802",
+      "notes": "Salamah: the night march and Amir's camel-chant. The same Hadith continues into the conquest and the prohibition of domestic-donkey meat. This chapter uses it only for the approach. No Muslim number is attached to the morning cry. A Muslim report of Madinah's sanctuary is a different hadith."
+    },
+    {
+      "id": "ref_060_04",
+      "title": "Editorial Status Notice",
+      "author": "Editorial Draft — Pending Independent Scholarly Review",
+      "source": "Seerah Content Collection",
+      "notes": "Historical narrative compiled from classical sources; editorial draft pending independent scholarly review before publication."
+    }
+  ]
+}

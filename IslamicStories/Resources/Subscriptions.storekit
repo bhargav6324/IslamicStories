@@ -1,0 +1,144 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : ""
+      }
+    ]
+  },
+  "identifier" : "E2B7A812",
+  "nonRenewingSubscriptions" : [ ],
+  "products" : [ ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "IND",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "22483276",
+      "localizations" : [
+        {
+          "description" : "Unlock all Seerah chapters and audio features",
+          "displayName" : "IslamicStories Premium",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "فتح جميع فصول السيرة والميزات الصوتية",
+          "displayName" : "اشتراك السيرة المميز",
+          "locale" : "ar"
+        }
+      ],
+      "name" : "monthly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [ ],
+          "codeOffers" : [ ],
+          "displayPrice" : "1000",
+          "familyShareable" : true,
+          "groupNumber" : 2,
+          "internalID" : "6440000001",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Full access to all 80 Seerah chapters and narration",
+              "displayName" : "IslamicStories Premium Monthly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "وصول كامل لجميع فصول السيرة الـ 80 والقراءة الصوتية",
+              "displayName" : "اشتراك شهري مميز",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "com.islamicstories.premium.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "IslamicStories Premium Monthly",
+          "subscriptionGroupID" : "22483276",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [ ]
+        },
+        {
+          "adHocOffers" : [ ],
+          "codeOffers" : [ ],
+          "displayPrice" : "6000",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "6440000002",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Full access to all 80 Seerah chapters and narration (Save 50%)",
+              "displayName" : "IslamicStories Premium Annual",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "وصول كامل لجميع فصول السيرة الـ 80 والقراءة الصوتية (وفر 50%)",
+              "displayName" : "اشتراك سنوي مميز",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "com.islamicstories.premium.annual",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "IslamicStories Premium Annual",
+          "subscriptionGroupID" : "22483276",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [ ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
